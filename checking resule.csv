@@ -1,0 +1,2001 @@
+customer_code,custmer_name,customer_type,product_code,customer_code,market_code,order_date,sales_qty,sales_amount,currency
+Cus001,"Surge Stores","Brick & Mortar",Prod001,Cus001,Mark001,2017-10-10,100,41241,INR
+Cus002,"Nomad Stores","Brick & Mortar",Prod001,Cus002,Mark002,2018-05-08,3,-1,INR
+Cus003,"Excel Stores","Brick & Mortar",Prod002,Cus003,Mark003,2018-04-06,1,875,INR
+Cus003,"Excel Stores","Brick & Mortar",Prod002,Cus003,Mark003,2018-04-11,1,583,INR
+Cus004,"Surface Stores","Brick & Mortar",Prod002,Cus004,Mark003,2018-06-18,6,7176,INR
+Cus005,"Premium Stores","Brick & Mortar",Prod003,Cus005,Mark004,2017-11-20,59,500,USD
+Cus005,"Premium Stores","Brick & Mortar",Prod003,Cus005,Mark004,2017-11-22,36,250,USD
+Cus005,"Premium Stores","Brick & Mortar",Prod003,Cus005,Mark004,2017-11-23,39,21412,INR
+Cus005,"Premium Stores","Brick & Mortar",Prod003,Cus005,Mark004,2017-11-27,35,19213,INR
+Cus005,"Premium Stores","Brick & Mortar",Prod003,Cus005,Mark004,2017-11-28,310,170185,INR
+Cus005,"Premium Stores","Brick & Mortar",Prod003,Cus005,Mark004,2017-11-29,184,101194,INR
+Cus005,"Premium Stores","Brick & Mortar",Prod003,Cus005,Mark004,2017-11-30,35,19213,INR
+Cus005,"Premium Stores","Brick & Mortar",Prod004,Cus005,Mark004,2017-11-29,17,9426,INR
+Cus005,"Premium Stores","Brick & Mortar",Prod004,Cus005,Mark004,2017-12-19,1,218,INR
+Cus005,"Premium Stores","Brick & Mortar",Prod005,Cus005,Mark004,2018-08-07,5,3093,INR
+Cus006,"Electricalsara Stores","Brick & Mortar",Prod003,Cus006,Mark004,2017-12-04,58,30306,INR
+Cus006,"Electricalsara Stores","Brick & Mortar",Prod005,Cus006,Mark004,2018-06-29,38,52319,INR
+Cus006,"Electricalsara Stores","Brick & Mortar",Prod005,Cus006,Mark004,2018-07-02,93,126296,INR
+Cus006,"Electricalsara Stores","Brick & Mortar",Prod005,Cus006,Mark004,2018-07-03,79,107500,INR
+Cus006,"Electricalsara Stores","Brick & Mortar",Prod005,Cus006,Mark004,2018-07-04,1,273,INR
+Cus006,"Electricalsara Stores","Brick & Mortar",Prod005,Cus006,Mark004,2018-07-06,3,3574,INR
+Cus006,"Electricalsara Stores","Brick & Mortar",Prod005,Cus006,Mark004,2018-07-13,1,273,INR
+Cus006,"Electricalsara Stores","Brick & Mortar",Prod005,Cus006,Mark004,2019-06-07,20,23403,INR
+Cus006,"Electricalsara Stores","Brick & Mortar",Prod005,Cus006,Mark004,2019-07-29,81,76329,INR
+Cus006,"Electricalsara Stores","Brick & Mortar",Prod005,Cus006,Mark004,2019-08-01,5,4542,INR
+Cus006,"Electricalsara Stores","Brick & Mortar",Prod005,Cus006,Mark004,2019-09-19,18,16579,INR
+Cus006,"Electricalsara Stores","Brick & Mortar",Prod005,Cus006,Mark004,2019-09-27,90,105301,INR
+Cus007,"Info Stores","Brick & Mortar",Prod004,Cus007,Mark004,2017-10-09,1,185,INR
+Cus007,"Info Stores","Brick & Mortar",Prod004,Cus007,Mark004,2017-10-13,1,556,INR
+Cus007,"Info Stores","Brick & Mortar",Prod004,Cus007,Mark004,2017-10-27,1,551,INR
+Cus007,"Info Stores","Brick & Mortar",Prod004,Cus007,Mark004,2017-11-03,1,167,INR
+Cus007,"Info Stores","Brick & Mortar",Prod004,Cus007,Mark004,2017-11-06,1,333,INR
+Cus007,"Info Stores","Brick & Mortar",Prod004,Cus007,Mark004,2017-11-10,1,500,INR
+Cus007,"Info Stores","Brick & Mortar",Prod004,Cus007,Mark004,2017-11-16,1,333,INR
+Cus007,"Info Stores","Brick & Mortar",Prod004,Cus007,Mark004,2017-11-17,1,333,INR
+Cus007,"Info Stores","Brick & Mortar",Prod004,Cus007,Mark004,2017-11-27,1,500,INR
+Cus007,"Info Stores","Brick & Mortar",Prod004,Cus007,Mark004,2017-12-04,1,833,INR
+Cus007,"Info Stores","Brick & Mortar",Prod004,Cus007,Mark004,2017-12-08,1,167,INR
+Cus007,"Info Stores","Brick & Mortar",Prod004,Cus007,Mark004,2017-12-11,1,833,INR
+Cus007,"Info Stores","Brick & Mortar",Prod004,Cus007,Mark004,2017-12-18,1,1000,INR
+Cus007,"Info Stores","Brick & Mortar",Prod004,Cus007,Mark004,2017-12-27,2,1833,INR
+Cus007,"Info Stores","Brick & Mortar",Prod004,Cus007,Mark004,2017-12-28,1,167,INR
+Cus007,"Info Stores","Brick & Mortar",Prod004,Cus007,Mark004,2018-01-05,1,167,INR
+Cus007,"Info Stores","Brick & Mortar",Prod004,Cus007,Mark004,2018-01-08,1,833,INR
+Cus007,"Info Stores","Brick & Mortar",Prod004,Cus007,Mark004,2018-01-22,1,167,INR
+Cus007,"Info Stores","Brick & Mortar",Prod004,Cus007,Mark004,2018-02-21,26,10657,INR
+Cus007,"Info Stores","Brick & Mortar",Prod004,Cus007,Mark004,2018-02-23,1,167,INR
+Cus007,"Info Stores","Brick & Mortar",Prod005,Cus007,Mark004,2018-08-03,1,157,INR
+Cus007,"Info Stores","Brick & Mortar",Prod005,Cus007,Mark004,2018-08-24,1,315,INR
+Cus007,"Info Stores","Brick & Mortar",Prod005,Cus007,Mark004,2018-09-21,1,630,INR
+Cus007,"Info Stores","Brick & Mortar",Prod005,Cus007,Mark004,2018-09-28,1,315,INR
+Cus007,"Info Stores","Brick & Mortar",Prod005,Cus007,Mark004,2018-11-09,1,157,INR
+Cus007,"Info Stores","Brick & Mortar",Prod005,Cus007,Mark004,2018-11-16,1,472,INR
+Cus007,"Info Stores","Brick & Mortar",Prod005,Cus007,Mark004,2018-12-07,1,157,INR
+Cus007,"Info Stores","Brick & Mortar",Prod005,Cus007,Mark004,2018-12-14,1,157,INR
+Cus007,"Info Stores","Brick & Mortar",Prod005,Cus007,Mark004,2019-01-25,1,315,INR
+Cus007,"Info Stores","Brick & Mortar",Prod005,Cus007,Mark004,2019-02-01,1,157,INR
+Cus007,"Info Stores","Brick & Mortar",Prod005,Cus007,Mark004,2019-02-08,1,472,INR
+Cus007,"Info Stores","Brick & Mortar",Prod005,Cus007,Mark004,2019-02-15,1,472,INR
+Cus007,"Info Stores","Brick & Mortar",Prod005,Cus007,Mark004,2019-02-22,1,315,INR
+Cus007,"Info Stores","Brick & Mortar",Prod005,Cus007,Mark004,2019-03-01,1,472,INR
+Cus007,"Info Stores","Brick & Mortar",Prod005,Cus007,Mark004,2019-03-08,1,315,INR
+Cus007,"Info Stores","Brick & Mortar",Prod005,Cus007,Mark004,2019-03-15,1,157,INR
+Cus007,"Info Stores","Brick & Mortar",Prod005,Cus007,Mark004,2019-03-22,1,315,INR
+Cus007,"Info Stores","Brick & Mortar",Prod005,Cus007,Mark004,2019-03-29,1,315,INR
+Cus007,"Info Stores","Brick & Mortar",Prod005,Cus007,Mark004,2019-04-05,1,315,INR
+Cus007,"Info Stores","Brick & Mortar",Prod005,Cus007,Mark004,2019-04-12,1,787,INR
+Cus007,"Info Stores","Brick & Mortar",Prod005,Cus007,Mark004,2019-04-23,1,630,INR
+Cus007,"Info Stores","Brick & Mortar",Prod005,Cus007,Mark004,2019-04-29,1,472,INR
+Cus007,"Info Stores","Brick & Mortar",Prod005,Cus007,Mark004,2019-05-06,1,315,INR
+Cus007,"Info Stores","Brick & Mortar",Prod005,Cus007,Mark004,2019-05-10,1,787,INR
+Cus007,"Info Stores","Brick & Mortar",Prod005,Cus007,Mark004,2019-05-17,1,1102,INR
+Cus007,"Info Stores","Brick & Mortar",Prod005,Cus007,Mark004,2019-06-03,1,787,INR
+Cus007,"Info Stores","Brick & Mortar",Prod005,Cus007,Mark004,2019-06-07,1,157,INR
+Cus007,"Info Stores","Brick & Mortar",Prod005,Cus007,Mark004,2019-06-17,1,315,INR
+Cus007,"Info Stores","Brick & Mortar",Prod005,Cus007,Mark004,2019-06-24,1,315,INR
+Cus007,"Info Stores","Brick & Mortar",Prod005,Cus007,Mark004,2019-06-28,1,315,INR
+Cus007,"Info Stores","Brick & Mortar",Prod005,Cus007,Mark004,2019-07-05,1,472,INR
+Cus007,"Info Stores","Brick & Mortar",Prod005,Cus007,Mark004,2019-07-12,1,630,INR
+Cus007,"Info Stores","Brick & Mortar",Prod005,Cus007,Mark004,2019-07-19,1,944,INR
+Cus007,"Info Stores","Brick & Mortar",Prod005,Cus007,Mark004,2019-07-26,2,1417,INR
+Cus007,"Info Stores","Brick & Mortar",Prod005,Cus007,Mark004,2019-08-02,2,1417,INR
+Cus007,"Info Stores","Brick & Mortar",Prod005,Cus007,Mark004,2019-08-09,1,787,INR
+Cus007,"Info Stores","Brick & Mortar",Prod005,Cus007,Mark004,2019-08-16,1,1259,INR
+Cus007,"Info Stores","Brick & Mortar",Prod005,Cus007,Mark004,2019-09-02,2,1574,INR
+Cus007,"Info Stores","Brick & Mortar",Prod005,Cus007,Mark004,2019-09-03,1,630,INR
+Cus007,"Info Stores","Brick & Mortar",Prod005,Cus007,Mark004,2019-09-06,1,157,INR
+Cus007,"Info Stores","Brick & Mortar",Prod005,Cus007,Mark004,2019-09-13,2,1417,INR
+Cus007,"Info Stores","Brick & Mortar",Prod005,Cus007,Mark004,2019-09-20,1,630,INR
+Cus007,"Info Stores","Brick & Mortar",Prod005,Cus007,Mark004,2019-09-23,200,66111,INR
+Cus007,"Info Stores","Brick & Mortar",Prod005,Cus007,Mark004,2019-09-27,2,1884,INR
+Cus007,"Info Stores","Brick & Mortar",Prod005,Cus007,Mark004,2019-10-07,1,944,INR
+Cus007,"Info Stores","Brick & Mortar",Prod005,Cus007,Mark004,2019-10-28,7,2574,INR
+Cus007,"Info Stores","Brick & Mortar",Prod005,Cus007,Mark004,2019-11-08,1,630,INR
+Cus007,"Info Stores","Brick & Mortar",Prod005,Cus007,Mark004,2019-11-15,1,472,INR
+Cus007,"Info Stores","Brick & Mortar",Prod005,Cus007,Mark004,2019-11-22,1,944,INR
+Cus007,"Info Stores","Brick & Mortar",Prod005,Cus007,Mark004,2019-11-29,2,1417,INR
+Cus007,"Info Stores","Brick & Mortar",Prod005,Cus007,Mark004,2019-12-06,1,1259,INR
+Cus007,"Info Stores","Brick & Mortar",Prod005,Cus007,Mark004,2019-12-13,4,3773,INR
+Cus007,"Info Stores","Brick & Mortar",Prod005,Cus007,Mark004,2019-12-20,1,315,INR
+Cus007,"Info Stores","Brick & Mortar",Prod005,Cus007,Mark004,2020-01-09,1,630,INR
+Cus007,"Info Stores","Brick & Mortar",Prod005,Cus007,Mark004,2020-01-10,1,472,INR
+Cus007,"Info Stores","Brick & Mortar",Prod005,Cus007,Mark004,2020-01-17,2,2042,INR
+Cus007,"Info Stores","Brick & Mortar",Prod005,Cus007,Mark004,2020-02-07,1,417,INR
+Cus007,"Info Stores","Brick & Mortar",Prod005,Cus007,Mark004,2020-02-14,1,310,INR
+Cus007,"Info Stores","Brick & Mortar",Prod005,Cus007,Mark004,2020-02-28,1,208,INR
+Cus007,"Info Stores","Brick & Mortar",Prod005,Cus007,Mark004,2020-03-06,1,620,INR
+Cus007,"Info Stores","Brick & Mortar",Prod005,Cus007,Mark004,2020-03-13,1,620,INR
+Cus007,"Info Stores","Brick & Mortar",Prod005,Cus007,Mark004,2020-04-03,1,829,INR
+Cus007,"Info Stores","Brick & Mortar",Prod005,Cus007,Mark004,2020-04-14,4,2694,INR
+Cus007,"Info Stores","Brick & Mortar",Prod005,Cus007,Mark004,2020-04-20,1,102,INR
+Cus007,"Info Stores","Brick & Mortar",Prod005,Cus007,Mark004,2020-05-15,2,528,INR
+Cus005,"Premium Stores","Brick & Mortar",Prod006,Cus005,Mark004,2017-10-24,1,380,INR
+Cus007,"Info Stores","Brick & Mortar",Prod006,Cus007,Mark004,2017-10-25,1,560,INR
+Cus007,"Info Stores","Brick & Mortar",Prod006,Cus007,Mark004,2017-10-30,1,560,INR
+Cus007,"Info Stores","Brick & Mortar",Prod006,Cus007,Mark004,2017-11-27,1,1116,INR
+Cus008,"Acclaimed Stores","Brick & Mortar",Prod006,Cus008,Mark005,2017-12-11,1,657,INR
+Cus007,"Info Stores","Brick & Mortar",Prod006,Cus007,Mark004,2017-12-12,1,560,INR
+Cus008,"Acclaimed Stores","Brick & Mortar",Prod006,Cus008,Mark005,2017-12-19,1,657,INR
+Cus007,"Info Stores","Brick & Mortar",Prod006,Cus007,Mark004,2018-02-12,1,560,INR
+Cus007,"Info Stores","Brick & Mortar",Prod007,Cus007,Mark004,2018-10-19,11,6218,INR
+Cus007,"Info Stores","Brick & Mortar",Prod008,Cus007,Mark004,2017-11-20,7,2426,INR
+Cus007,"Info Stores","Brick & Mortar",Prod008,Cus007,Mark004,2017-11-24,33,15278,INR
+Cus009,"Electricalsquipo Stores","Brick & Mortar",Prod009,Cus009,Mark002,2018-11-14,3,3032,INR
+Cus010,"Atlas Stores","Brick & Mortar",Prod009,Cus010,Mark003,2019-05-22,2,3194,INR
+Cus010,"Atlas Stores","Brick & Mortar",Prod009,Cus010,Mark003,2019-05-23,1,912,INR
+Cus010,"Atlas Stores","Brick & Mortar",Prod009,Cus010,Mark003,2019-05-28,1,1824,INR
+Cus010,"Atlas Stores","Brick & Mortar",Prod009,Cus010,Mark003,2019-05-29,1,458,INR
+Cus003,"Excel Stores","Brick & Mortar",Prod009,Cus003,Mark003,2019-05-31,3,4444,INR
+Cus010,"Atlas Stores","Brick & Mortar",Prod009,Cus010,Mark003,2019-06-03,1,458,INR
+Cus010,"Atlas Stores","Brick & Mortar",Prod009,Cus010,Mark003,2019-06-04,1,458,INR
+Cus010,"Atlas Stores","Brick & Mortar",Prod009,Cus010,Mark003,2019-06-05,1,1824,INR
+Cus003,"Excel Stores","Brick & Mortar",Prod009,Cus003,Mark003,2019-06-05,2,2667,INR
+Cus010,"Atlas Stores","Brick & Mortar",Prod009,Cus010,Mark003,2019-06-06,14,19171,INR
+Cus010,"Atlas Stores","Brick & Mortar",Prod009,Cus010,Mark003,2019-06-07,1,458,INR
+Cus010,"Atlas Stores","Brick & Mortar",Prod009,Cus010,Mark003,2019-06-11,1,458,INR
+Cus010,"Atlas Stores","Brick & Mortar",Prod009,Cus010,Mark003,2019-06-12,1,458,INR
+Cus010,"Atlas Stores","Brick & Mortar",Prod009,Cus010,Mark003,2019-06-14,1,1370,INR
+Cus003,"Excel Stores","Brick & Mortar",Prod009,Cus003,Mark003,2019-06-14,2,2667,INR
+Cus003,"Excel Stores","Brick & Mortar",Prod009,Cus003,Mark003,2019-06-17,1,1333,INR
+Cus011,"Flawless Stores","Brick & Mortar",Prod009,Cus011,Mark003,2019-06-18,1,597,INR
+Cus003,"Excel Stores","Brick & Mortar",Prod009,Cus003,Mark003,2019-06-18,7,8889,INR
+Cus003,"Excel Stores","Brick & Mortar",Prod009,Cus003,Mark003,2019-06-19,1,1778,INR
+Cus010,"Atlas Stores","Brick & Mortar",Prod009,Cus010,Mark003,2019-06-28,7,9130,INR
+Cus011,"Flawless Stores","Brick & Mortar",Prod010,Cus011,Mark003,2018-04-23,1,602,INR
+Cus012,"Integration Stores","Brick & Mortar",Prod010,Cus012,Mark003,2018-05-03,2,3227,INR
+Cus003,"Excel Stores","Brick & Mortar",Prod010,Cus003,Mark003,2018-05-04,1,449,INR
+Cus003,"Excel Stores","Brick & Mortar",Prod010,Cus003,Mark003,2018-05-07,1,449,INR
+Cus003,"Excel Stores","Brick & Mortar",Prod010,Cus003,Mark003,2018-05-09,1,449,INR
+Cus003,"Excel Stores","Brick & Mortar",Prod010,Cus003,Mark003,2018-05-11,1,449,INR
+Cus013,"Unity Stores","Brick & Mortar",Prod010,Cus013,Mark003,2018-05-11,7,9880,INR
+Cus011,"Flawless Stores","Brick & Mortar",Prod010,Cus011,Mark003,2018-05-16,1,301,INR
+Cus014,"Forward Stores","Brick & Mortar",Prod010,Cus014,Mark003,2018-05-16,6,7954,INR
+Cus012,"Integration Stores","Brick & Mortar",Prod010,Cus012,Mark003,2018-05-17,1,2153,INR
+Cus014,"Forward Stores","Brick & Mortar",Prod010,Cus014,Mark003,2018-05-17,4,5306,INR
+Cus003,"Excel Stores","Brick & Mortar",Prod010,Cus003,Mark003,2018-05-18,1,1801,INR
+Cus003,"Excel Stores","Brick & Mortar",Prod010,Cus003,Mark003,2018-05-23,2,2699,INR
+Cus012,"Integration Stores","Brick & Mortar",Prod010,Cus012,Mark003,2018-05-24,1,1616,INR
+Cus003,"Excel Stores","Brick & Mortar",Prod010,Cus003,Mark003,2018-05-25,2,2245,INR
+Cus015,"Electricalsbea Stores","Brick & Mortar",Prod010,Cus015,Mark006,2018-05-26,1,0,INR
+Cus003,"Excel Stores","Brick & Mortar",Prod010,Cus003,Mark003,2018-05-28,1,903,INR
+Cus014,"Forward Stores","Brick & Mortar",Prod010,Cus014,Mark003,2018-05-29,4,5306,INR
+Cus010,"Atlas Stores","Brick & Mortar",Prod010,Cus010,Mark003,2018-05-30,3,3778,INR
+Cus012,"Integration Stores","Brick & Mortar",Prod010,Cus012,Mark003,2018-05-31,1,537,INR
+Cus010,"Atlas Stores","Brick & Mortar",Prod010,Cus010,Mark003,2018-05-31,1,1417,INR
+Cus014,"Forward Stores","Brick & Mortar",Prod010,Cus014,Mark003,2018-05-31,4,5306,INR
+Cus010,"Atlas Stores","Brick & Mortar",Prod010,Cus010,Mark003,2018-06-01,1,472,INR
+Cus003,"Excel Stores","Brick & Mortar",Prod010,Cus003,Mark003,2018-06-01,3,4051,INR
+Cus013,"Unity Stores","Brick & Mortar",Prod010,Cus013,Mark003,2018-06-01,10,14815,INR
+Cus003,"Excel Stores","Brick & Mortar",Prod010,Cus003,Mark003,2018-06-06,3,4495,INR
+Cus012,"Integration Stores","Brick & Mortar",Prod010,Cus012,Mark003,2018-06-07,2,2690,INR
+Cus010,"Atlas Stores","Brick & Mortar",Prod010,Cus010,Mark003,2018-06-07,1,1417,INR
+Cus003,"Excel Stores","Brick & Mortar",Prod010,Cus003,Mark003,2018-06-08,1,449,INR
+Cus014,"Forward Stores","Brick & Mortar",Prod010,Cus014,Mark003,2018-06-08,18,23866,INR
+Cus003,"Excel Stores","Brick & Mortar",Prod010,Cus003,Mark003,2018-06-11,1,898,INR
+Cus013,"Unity Stores","Brick & Mortar",Prod010,Cus013,Mark003,2018-06-11,3,4940,INR
+Cus003,"Excel Stores","Brick & Mortar",Prod010,Cus003,Mark003,2018-06-13,1,449,INR
+Cus012,"Integration Stores","Brick & Mortar",Prod010,Cus012,Mark003,2018-06-14,1,2153,INR
+Cus010,"Atlas Stores","Brick & Mortar",Prod010,Cus010,Mark003,2018-06-14,1,472,INR
+Cus003,"Excel Stores","Brick & Mortar",Prod010,Cus003,Mark003,2018-06-14,1,449,INR
+Cus014,"Forward Stores","Brick & Mortar",Prod010,Cus014,Mark003,2018-06-14,4,5306,INR
+Cus003,"Excel Stores","Brick & Mortar",Prod010,Cus003,Mark003,2018-06-15,3,3602,INR
+Cus011,"Flawless Stores","Brick & Mortar",Prod010,Cus011,Mark003,2018-06-18,4,3583,INR
+Cus003,"Excel Stores","Brick & Mortar",Prod010,Cus003,Mark003,2018-06-18,4,4954,INR
+Cus010,"Atlas Stores","Brick & Mortar",Prod010,Cus010,Mark003,2018-06-21,1,1889,INR
+Cus010,"Atlas Stores","Brick & Mortar",Prod010,Cus010,Mark003,2018-07-18,1,472,INR
+Cus003,"Excel Stores","Brick & Mortar",Prod010,Cus003,Mark003,2018-07-18,1,1352,INR
+Cus012,"Integration Stores","Brick & Mortar",Prod010,Cus012,Mark003,2018-07-19,1,1616,INR
+Cus003,"Excel Stores","Brick & Mortar",Prod010,Cus003,Mark003,2018-07-19,1,449,INR
+Cus003,"Excel Stores","Brick & Mortar",Prod010,Cus003,Mark003,2018-07-23,1,1801,INR
+Cus003,"Excel Stores","Brick & Mortar",Prod010,Cus003,Mark003,2018-07-30,1,1801,INR
+Cus003,"Excel Stores","Brick & Mortar",Prod010,Cus003,Mark003,2019-01-25,1,449,INR
+Cus003,"Excel Stores","Brick & Mortar",Prod010,Cus003,Mark003,2019-02-04,1,449,INR
+Cus003,"Excel Stores","Brick & Mortar",Prod010,Cus003,Mark003,2019-02-20,1,449,INR
+Cus003,"Excel Stores","Brick & Mortar",Prod010,Cus003,Mark003,2019-03-13,1,444,INR
+Cus003,"Excel Stores","Brick & Mortar",Prod010,Cus003,Mark003,2019-03-28,1,444,INR
+Cus003,"Excel Stores","Brick & Mortar",Prod010,Cus003,Mark003,2019-04-30,1,0,INR
+Cus016,"Logic Stores","Brick & Mortar",Prod011,Cus016,Mark002,2017-10-06,1,505,INR
+Cus016,"Logic Stores","Brick & Mortar",Prod011,Cus016,Mark002,2017-10-13,1,1514,INR
+Cus016,"Logic Stores","Brick & Mortar",Prod011,Cus016,Mark002,2017-10-20,1,2023,INR
+Cus016,"Logic Stores","Brick & Mortar",Prod011,Cus016,Mark002,2017-10-27,25,37889,INR
+Cus016,"Logic Stores","Brick & Mortar",Prod011,Cus016,Mark002,2018-02-08,1,593,INR
+Cus007,"Info Stores","Brick & Mortar",Prod011,Cus007,Mark004,2018-02-16,1,597,INR
+Cus007,"Info Stores","Brick & Mortar",Prod011,Cus007,Mark004,2018-02-26,1,2389,INR
+Cus016,"Logic Stores","Brick & Mortar",Prod011,Cus016,Mark002,2018-03-01,1,593,INR
+Cus007,"Info Stores","Brick & Mortar",Prod011,Cus007,Mark004,2018-03-02,1,1194,INR
+Cus007,"Info Stores","Brick & Mortar",Prod011,Cus007,Mark004,2018-03-05,8,13736,INR
+Cus007,"Info Stores","Brick & Mortar",Prod011,Cus007,Mark004,2018-03-12,1,1194,INR
+Cus007,"Info Stores","Brick & Mortar",Prod011,Cus007,Mark004,2018-04-03,1,597,INR
+Cus007,"Info Stores","Brick & Mortar",Prod011,Cus007,Mark004,2018-04-09,1,597,INR
+Cus007,"Info Stores","Brick & Mortar",Prod011,Cus007,Mark004,2018-04-13,1,597,INR
+Cus017,"Epic Stores","Brick & Mortar",Prod011,Cus017,Mark007,2018-04-24,17,17472,INR
+Cus007,"Info Stores","Brick & Mortar",Prod011,Cus007,Mark004,2018-04-26,2,2986,INR
+Cus007,"Info Stores","Brick & Mortar",Prod011,Cus007,Mark004,2018-04-27,2,2986,INR
+Cus007,"Info Stores","Brick & Mortar",Prod011,Cus007,Mark004,2018-05-07,1,597,INR
+Cus007,"Info Stores","Brick & Mortar",Prod011,Cus007,Mark004,2018-05-14,1,1194,INR
+Cus007,"Info Stores","Brick & Mortar",Prod011,Cus007,Mark004,2018-05-18,1,796,INR
+Cus017,"Epic Stores","Brick & Mortar",Prod011,Cus017,Mark007,2018-05-31,26,26722,INR
+Cus007,"Info Stores","Brick & Mortar",Prod011,Cus007,Mark004,2018-06-11,1,796,INR
+Cus007,"Info Stores","Brick & Mortar",Prod011,Cus007,Mark004,2018-06-13,1,796,INR
+Cus007,"Info Stores","Brick & Mortar",Prod011,Cus007,Mark004,2018-06-14,1,3185,INR
+Cus007,"Info Stores","Brick & Mortar",Prod011,Cus007,Mark004,2018-06-18,1,796,INR
+Cus007,"Info Stores","Brick & Mortar",Prod011,Cus007,Mark004,2018-06-22,1,2389,INR
+Cus007,"Info Stores","Brick & Mortar",Prod011,Cus007,Mark004,2018-06-29,1,3185,INR
+Cus007,"Info Stores","Brick & Mortar",Prod011,Cus007,Mark004,2018-07-09,2,5574,INR
+Cus007,"Info Stores","Brick & Mortar",Prod011,Cus007,Mark004,2018-07-13,1,796,INR
+Cus007,"Info Stores","Brick & Mortar",Prod011,Cus007,Mark004,2018-07-20,1,796,INR
+Cus007,"Info Stores","Brick & Mortar",Prod011,Cus007,Mark004,2018-07-27,1,796,INR
+Cus007,"Info Stores","Brick & Mortar",Prod011,Cus007,Mark004,2018-08-03,1,1593,INR
+Cus016,"Logic Stores","Brick & Mortar",Prod011,Cus016,Mark002,2018-10-12,1,514,INR
+Cus007,"Info Stores","Brick & Mortar",Prod011,Cus007,Mark004,2018-10-17,1,4759,INR
+Cus007,"Info Stores","Brick & Mortar",Prod011,Cus007,Mark004,2018-10-25,1,1190,INR
+Cus007,"Info Stores","Brick & Mortar",Prod011,Cus007,Mark004,2018-10-26,1,1190,INR
+Cus016,"Logic Stores","Brick & Mortar",Prod011,Cus016,Mark002,2018-10-31,3,4106,INR
+Cus007,"Info Stores","Brick & Mortar",Prod011,Cus007,Mark004,2018-11-05,2,5949,INR
+Cus007,"Info Stores","Brick & Mortar",Prod011,Cus007,Mark004,2018-11-06,2,5949,INR
+Cus016,"Logic Stores","Brick & Mortar",Prod011,Cus016,Mark002,2018-12-07,1,514,INR
+Cus016,"Logic Stores","Brick & Mortar",Prod011,Cus016,Mark002,2018-12-14,1,514,INR
+Cus016,"Logic Stores","Brick & Mortar",Prod011,Cus016,Mark002,2018-12-21,1,514,INR
+Cus018,"Electricalslance Stores","Brick & Mortar",Prod011,Cus018,Mark002,2018-12-28,1,0,INR
+Cus016,"Logic Stores","Brick & Mortar",Prod011,Cus016,Mark002,2019-01-28,1,514,INR
+Cus016,"Logic Stores","Brick & Mortar",Prod011,Cus016,Mark002,2019-02-01,1,514,INR
+Cus016,"Logic Stores","Brick & Mortar",Prod011,Cus016,Mark002,2019-02-08,1,1028,INR
+Cus016,"Logic Stores","Brick & Mortar",Prod011,Cus016,Mark002,2019-02-15,1,2056,INR
+Cus007,"Info Stores","Brick & Mortar",Prod011,Cus007,Mark004,2019-02-22,1,796,INR
+Cus016,"Logic Stores","Brick & Mortar",Prod011,Cus016,Mark002,2019-02-22,1,1542,INR
+Cus016,"Logic Stores","Brick & Mortar",Prod011,Cus016,Mark002,2019-03-01,1,514,INR
+Cus016,"Logic Stores","Brick & Mortar",Prod011,Cus016,Mark002,2019-03-08,1,1028,INR
+Cus007,"Info Stores","Brick & Mortar",Prod011,Cus007,Mark004,2019-04-12,1,796,INR
+Cus007,"Info Stores","Brick & Mortar",Prod011,Cus007,Mark004,2019-06-03,1,796,INR
+Cus007,"Info Stores","Brick & Mortar",Prod011,Cus007,Mark004,2019-06-17,1,1593,INR
+Cus007,"Info Stores","Brick & Mortar",Prod011,Cus007,Mark004,2019-06-24,1,796,INR
+Cus011,"Flawless Stores","Brick & Mortar",Prod011,Cus011,Mark003,2019-07-15,1,611,INR
+Cus016,"Logic Stores","Brick & Mortar",Prod011,Cus016,Mark002,2019-08-16,1,1028,INR
+Cus016,"Logic Stores","Brick & Mortar",Prod011,Cus016,Mark002,2019-09-27,1,514,INR
+Cus016,"Logic Stores","Brick & Mortar",Prod011,Cus016,Mark002,2019-10-04,1,514,INR
+Cus016,"Logic Stores","Brick & Mortar",Prod011,Cus016,Mark002,2019-10-18,1,514,INR
+Cus007,"Info Stores","Brick & Mortar",Prod011,Cus007,Mark004,2019-10-21,1,796,INR
+Cus007,"Info Stores","Brick & Mortar",Prod011,Cus007,Mark004,2019-10-25,1,796,INR
+Cus016,"Logic Stores","Brick & Mortar",Prod011,Cus016,Mark002,2019-11-01,1,514,INR
+Cus007,"Info Stores","Brick & Mortar",Prod011,Cus007,Mark004,2019-11-04,1,796,INR
+Cus007,"Info Stores","Brick & Mortar",Prod011,Cus007,Mark004,2019-11-08,1,1593,INR
+Cus016,"Logic Stores","Brick & Mortar",Prod011,Cus016,Mark002,2019-11-08,1,514,INR
+Cus007,"Info Stores","Brick & Mortar",Prod011,Cus007,Mark004,2019-11-15,1,3185,INR
+Cus016,"Logic Stores","Brick & Mortar",Prod011,Cus016,Mark002,2019-11-15,1,514,INR
+Cus016,"Logic Stores","Brick & Mortar",Prod011,Cus016,Mark002,2019-11-18,1,514,INR
+Cus007,"Info Stores","Brick & Mortar",Prod011,Cus007,Mark004,2019-12-06,2,4778,INR
+Cus016,"Logic Stores","Brick & Mortar",Prod011,Cus016,Mark002,2019-12-06,1,514,INR
+Cus007,"Info Stores","Brick & Mortar",Prod011,Cus007,Mark004,2019-12-13,4,10352,INR
+Cus007,"Info Stores","Brick & Mortar",Prod011,Cus007,Mark004,2019-12-20,1,796,INR
+Cus016,"Logic Stores","Brick & Mortar",Prod011,Cus016,Mark002,2020-06-12,1,1028,INR
+Cus016,"Logic Stores","Brick & Mortar",Prod011,Cus016,Mark002,2020-06-16,1,514,INR
+Cus019,"Electricalsopedia Stores","Brick & Mortar",Prod012,Cus019,Mark002,2018-06-05,33,29648,INR
+Cus001,"Surge Stores","Brick & Mortar",Prod013,Cus001,Mark001,2017-10-10,240,143560,INR
+Cus005,"Premium Stores","Brick & Mortar",Prod013,Cus005,Mark004,2017-10-11,7,6204,INR
+Cus007,"Info Stores","Brick & Mortar",Prod013,Cus007,Mark004,2017-10-16,1,495,INR
+Cus006,"Electricalsara Stores","Brick & Mortar",Prod013,Cus006,Mark004,2017-10-23,20,25130,INR
+Cus007,"Info Stores","Brick & Mortar",Prod013,Cus007,Mark004,2017-10-25,1,986,INR
+Cus020,Nixon,E-Commerce,Prod013,Cus020,Mark004,2017-11-02,13,23898,INR
+Cus005,"Premium Stores","Brick & Mortar",Prod013,Cus005,Mark004,2017-11-03,1,296,INR
+Cus006,"Electricalsara Stores","Brick & Mortar",Prod013,Cus006,Mark004,2017-11-08,1,356,INR
+Cus001,"Surge Stores","Brick & Mortar",Prod001,Cus001,Mark001,2017-10-10,100,41241,"INR"
+Cus002,"Nomad Stores","Brick & Mortar",Prod001,Cus002,Mark002,2018-05-08,3,-1,"INR"
+Cus003,"Excel Stores","Brick & Mortar",Prod002,Cus003,Mark003,2018-04-06,1,875,"INR"
+Cus003,"Excel Stores","Brick & Mortar",Prod002,Cus003,Mark003,2018-04-11,1,583,"INR"
+Cus004,"Surface Stores","Brick & Mortar",Prod002,Cus004,Mark003,2018-06-18,6,7176,"INR"
+Cus005,"Premium Stores","Brick & Mortar",Prod003,Cus005,Mark004,2017-11-20,59,500,"USD"
+Cus005,"Premium Stores","Brick & Mortar",Prod003,Cus005,Mark004,2017-11-22,36,250,"USD"
+Cus005,"Premium Stores","Brick & Mortar",Prod003,Cus005,Mark004,2017-11-23,39,21412,"INR"
+Cus005,"Premium Stores","Brick & Mortar",Prod003,Cus005,Mark004,2017-11-27,35,19213,"INR"
+Cus005,"Premium Stores","Brick & Mortar",Prod003,Cus005,Mark004,2017-11-28,310,170185,"INR"
+Cus005,"Premium Stores","Brick & Mortar",Prod003,Cus005,Mark004,2017-11-29,184,101194,"INR"
+Cus005,"Premium Stores","Brick & Mortar",Prod003,Cus005,Mark004,2017-11-30,35,19213,"INR"
+Cus005,"Premium Stores","Brick & Mortar",Prod004,Cus005,Mark004,2017-11-29,17,9426,"INR"
+Cus005,"Premium Stores","Brick & Mortar",Prod004,Cus005,Mark004,2017-12-19,1,218,"INR"
+Cus005,"Premium Stores","Brick & Mortar",Prod005,Cus005,Mark004,2018-08-07,5,3093,"INR"
+Cus006,"Electricalsara Stores","Brick & Mortar",Prod003,Cus006,Mark004,2017-12-04,58,30306,"INR"
+Cus006,"Electricalsara Stores","Brick & Mortar",Prod005,Cus006,Mark004,2018-06-29,38,52319,"INR"
+Cus006,"Electricalsara Stores","Brick & Mortar",Prod005,Cus006,Mark004,2018-07-02,93,126296,"INR"
+Cus006,"Electricalsara Stores","Brick & Mortar",Prod005,Cus006,Mark004,2018-07-03,79,107500,"INR"
+Cus006,"Electricalsara Stores","Brick & Mortar",Prod005,Cus006,Mark004,2018-07-04,1,273,"INR"
+Cus006,"Electricalsara Stores","Brick & Mortar",Prod005,Cus006,Mark004,2018-07-06,3,3574,"INR"
+Cus006,"Electricalsara Stores","Brick & Mortar",Prod005,Cus006,Mark004,2018-07-13,1,273,"INR"
+Cus006,"Electricalsara Stores","Brick & Mortar",Prod005,Cus006,Mark004,2019-06-07,20,23403,"INR"
+Cus006,"Electricalsara Stores","Brick & Mortar",Prod005,Cus006,Mark004,2019-07-29,81,76329,"INR"
+Cus006,"Electricalsara Stores","Brick & Mortar",Prod005,Cus006,Mark004,2019-08-01,5,4542,"INR"
+Cus006,"Electricalsara Stores","Brick & Mortar",Prod005,Cus006,Mark004,2019-09-19,18,16579,"INR"
+Cus006,"Electricalsara Stores","Brick & Mortar",Prod005,Cus006,Mark004,2019-09-27,90,105301,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod004,Cus007,Mark004,2017-10-09,1,185,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod004,Cus007,Mark004,2017-10-13,1,556,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod004,Cus007,Mark004,2017-10-27,1,551,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod004,Cus007,Mark004,2017-11-03,1,167,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod004,Cus007,Mark004,2017-11-06,1,333,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod004,Cus007,Mark004,2017-11-10,1,500,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod004,Cus007,Mark004,2017-11-16,1,333,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod004,Cus007,Mark004,2017-11-17,1,333,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod004,Cus007,Mark004,2017-11-27,1,500,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod004,Cus007,Mark004,2017-12-04,1,833,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod004,Cus007,Mark004,2017-12-08,1,167,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod004,Cus007,Mark004,2017-12-11,1,833,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod004,Cus007,Mark004,2017-12-18,1,1000,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod004,Cus007,Mark004,2017-12-27,2,1833,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod004,Cus007,Mark004,2017-12-28,1,167,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod004,Cus007,Mark004,2018-01-05,1,167,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod004,Cus007,Mark004,2018-01-08,1,833,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod004,Cus007,Mark004,2018-01-22,1,167,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod004,Cus007,Mark004,2018-02-21,26,10657,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod004,Cus007,Mark004,2018-02-23,1,167,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod005,Cus007,Mark004,2018-08-03,1,157,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod005,Cus007,Mark004,2018-08-24,1,315,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod005,Cus007,Mark004,2018-09-21,1,630,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod005,Cus007,Mark004,2018-09-28,1,315,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod005,Cus007,Mark004,2018-11-09,1,157,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod005,Cus007,Mark004,2018-11-16,1,472,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod005,Cus007,Mark004,2018-12-07,1,157,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod005,Cus007,Mark004,2018-12-14,1,157,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod005,Cus007,Mark004,2019-01-25,1,315,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod005,Cus007,Mark004,2019-02-01,1,157,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod005,Cus007,Mark004,2019-02-08,1,472,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod005,Cus007,Mark004,2019-02-15,1,472,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod005,Cus007,Mark004,2019-02-22,1,315,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod005,Cus007,Mark004,2019-03-01,1,472,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod005,Cus007,Mark004,2019-03-08,1,315,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod005,Cus007,Mark004,2019-03-15,1,157,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod005,Cus007,Mark004,2019-03-22,1,315,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod005,Cus007,Mark004,2019-03-29,1,315,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod005,Cus007,Mark004,2019-04-05,1,315,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod005,Cus007,Mark004,2019-04-12,1,787,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod005,Cus007,Mark004,2019-04-23,1,630,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod005,Cus007,Mark004,2019-04-29,1,472,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod005,Cus007,Mark004,2019-05-06,1,315,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod005,Cus007,Mark004,2019-05-10,1,787,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod005,Cus007,Mark004,2019-05-17,1,1102,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod005,Cus007,Mark004,2019-06-03,1,787,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod005,Cus007,Mark004,2019-06-07,1,157,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod005,Cus007,Mark004,2019-06-17,1,315,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod005,Cus007,Mark004,2019-06-24,1,315,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod005,Cus007,Mark004,2019-06-28,1,315,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod005,Cus007,Mark004,2019-07-05,1,472,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod005,Cus007,Mark004,2019-07-12,1,630,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod005,Cus007,Mark004,2019-07-19,1,944,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod005,Cus007,Mark004,2019-07-26,2,1417,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod005,Cus007,Mark004,2019-08-02,2,1417,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod005,Cus007,Mark004,2019-08-09,1,787,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod005,Cus007,Mark004,2019-08-16,1,1259,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod005,Cus007,Mark004,2019-09-02,2,1574,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod005,Cus007,Mark004,2019-09-03,1,630,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod005,Cus007,Mark004,2019-09-06,1,157,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod005,Cus007,Mark004,2019-09-13,2,1417,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod005,Cus007,Mark004,2019-09-20,1,630,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod005,Cus007,Mark004,2019-09-23,200,66111,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod005,Cus007,Mark004,2019-09-27,2,1884,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod005,Cus007,Mark004,2019-10-07,1,944,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod005,Cus007,Mark004,2019-10-28,7,2574,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod005,Cus007,Mark004,2019-11-08,1,630,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod005,Cus007,Mark004,2019-11-15,1,472,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod005,Cus007,Mark004,2019-11-22,1,944,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod005,Cus007,Mark004,2019-11-29,2,1417,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod005,Cus007,Mark004,2019-12-06,1,1259,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod005,Cus007,Mark004,2019-12-13,4,3773,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod005,Cus007,Mark004,2019-12-20,1,315,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod005,Cus007,Mark004,2020-01-09,1,630,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod005,Cus007,Mark004,2020-01-10,1,472,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod005,Cus007,Mark004,2020-01-17,2,2042,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod005,Cus007,Mark004,2020-02-07,1,417,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod005,Cus007,Mark004,2020-02-14,1,310,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod005,Cus007,Mark004,2020-02-28,1,208,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod005,Cus007,Mark004,2020-03-06,1,620,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod005,Cus007,Mark004,2020-03-13,1,620,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod005,Cus007,Mark004,2020-04-03,1,829,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod005,Cus007,Mark004,2020-04-14,4,2694,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod005,Cus007,Mark004,2020-04-20,1,102,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod005,Cus007,Mark004,2020-05-15,2,528,"INR"
+Cus005,"Premium Stores","Brick & Mortar",Prod006,Cus005,Mark004,2017-10-24,1,380,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod006,Cus007,Mark004,2017-10-25,1,560,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod006,Cus007,Mark004,2017-10-30,1,560,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod006,Cus007,Mark004,2017-11-27,1,1116,"INR"
+Cus008,"Acclaimed Stores","Brick & Mortar",Prod006,Cus008,Mark005,2017-12-11,1,657,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod006,Cus007,Mark004,2017-12-12,1,560,"INR"
+Cus008,"Acclaimed Stores","Brick & Mortar",Prod006,Cus008,Mark005,2017-12-19,1,657,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod006,Cus007,Mark004,2018-02-12,1,560,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod007,Cus007,Mark004,2018-10-19,11,6218,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod008,Cus007,Mark004,2017-11-20,7,2426,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod008,Cus007,Mark004,2017-11-24,33,15278,"INR"
+Cus009,"Electricalsquipo Stores","Brick & Mortar",Prod009,Cus009,Mark002,2018-11-14,3,3032,"INR"
+Cus010,"Atlas Stores","Brick & Mortar",Prod009,Cus010,Mark003,2019-05-22,2,3194,"INR"
+Cus010,"Atlas Stores","Brick & Mortar",Prod009,Cus010,Mark003,2019-05-23,1,912,"INR"
+Cus010,"Atlas Stores","Brick & Mortar",Prod009,Cus010,Mark003,2019-05-28,1,1824,"INR"
+Cus010,"Atlas Stores","Brick & Mortar",Prod009,Cus010,Mark003,2019-05-29,1,458,"INR"
+Cus003,"Excel Stores","Brick & Mortar",Prod009,Cus003,Mark003,2019-05-31,3,4444,"INR"
+Cus010,"Atlas Stores","Brick & Mortar",Prod009,Cus010,Mark003,2019-06-03,1,458,"INR"
+Cus010,"Atlas Stores","Brick & Mortar",Prod009,Cus010,Mark003,2019-06-04,1,458,"INR"
+Cus010,"Atlas Stores","Brick & Mortar",Prod009,Cus010,Mark003,2019-06-05,1,1824,"INR"
+Cus003,"Excel Stores","Brick & Mortar",Prod009,Cus003,Mark003,2019-06-05,2,2667,"INR"
+Cus010,"Atlas Stores","Brick & Mortar",Prod009,Cus010,Mark003,2019-06-06,14,19171,"INR"
+Cus010,"Atlas Stores","Brick & Mortar",Prod009,Cus010,Mark003,2019-06-07,1,458,"INR"
+Cus010,"Atlas Stores","Brick & Mortar",Prod009,Cus010,Mark003,2019-06-11,1,458,"INR"
+Cus010,"Atlas Stores","Brick & Mortar",Prod009,Cus010,Mark003,2019-06-12,1,458,"INR"
+Cus010,"Atlas Stores","Brick & Mortar",Prod009,Cus010,Mark003,2019-06-14,1,1370,"INR"
+Cus003,"Excel Stores","Brick & Mortar",Prod009,Cus003,Mark003,2019-06-14,2,2667,"INR"
+Cus003,"Excel Stores","Brick & Mortar",Prod009,Cus003,Mark003,2019-06-17,1,1333,"INR"
+Cus011,"Flawless Stores","Brick & Mortar",Prod009,Cus011,Mark003,2019-06-18,1,597,"INR"
+Cus003,"Excel Stores","Brick & Mortar",Prod009,Cus003,Mark003,2019-06-18,7,8889,"INR"
+Cus003,"Excel Stores","Brick & Mortar",Prod009,Cus003,Mark003,2019-06-19,1,1778,"INR"
+Cus010,"Atlas Stores","Brick & Mortar",Prod009,Cus010,Mark003,2019-06-28,7,9130,"INR"
+Cus011,"Flawless Stores","Brick & Mortar",Prod010,Cus011,Mark003,2018-04-23,1,602,"INR"
+Cus012,"Integration Stores","Brick & Mortar",Prod010,Cus012,Mark003,2018-05-03,2,3227,"INR"
+Cus003,"Excel Stores","Brick & Mortar",Prod010,Cus003,Mark003,2018-05-04,1,449,"INR"
+Cus003,"Excel Stores","Brick & Mortar",Prod010,Cus003,Mark003,2018-05-07,1,449,"INR"
+Cus003,"Excel Stores","Brick & Mortar",Prod010,Cus003,Mark003,2018-05-09,1,449,"INR"
+Cus003,"Excel Stores","Brick & Mortar",Prod010,Cus003,Mark003,2018-05-11,1,449,"INR"
+Cus013,"Unity Stores","Brick & Mortar",Prod010,Cus013,Mark003,2018-05-11,7,9880,"INR"
+Cus011,"Flawless Stores","Brick & Mortar",Prod010,Cus011,Mark003,2018-05-16,1,301,"INR"
+Cus014,"Forward Stores","Brick & Mortar",Prod010,Cus014,Mark003,2018-05-16,6,7954,"INR"
+Cus012,"Integration Stores","Brick & Mortar",Prod010,Cus012,Mark003,2018-05-17,1,2153,"INR"
+Cus014,"Forward Stores","Brick & Mortar",Prod010,Cus014,Mark003,2018-05-17,4,5306,"INR"
+Cus003,"Excel Stores","Brick & Mortar",Prod010,Cus003,Mark003,2018-05-18,1,1801,"INR"
+Cus003,"Excel Stores","Brick & Mortar",Prod010,Cus003,Mark003,2018-05-23,2,2699,"INR"
+Cus012,"Integration Stores","Brick & Mortar",Prod010,Cus012,Mark003,2018-05-24,1,1616,"INR"
+Cus003,"Excel Stores","Brick & Mortar",Prod010,Cus003,Mark003,2018-05-25,2,2245,"INR"
+Cus015,"Electricalsbea Stores","Brick & Mortar",Prod010,Cus015,Mark006,2018-05-26,1,0,"INR"
+Cus003,"Excel Stores","Brick & Mortar",Prod010,Cus003,Mark003,2018-05-28,1,903,"INR"
+Cus014,"Forward Stores","Brick & Mortar",Prod010,Cus014,Mark003,2018-05-29,4,5306,"INR"
+Cus010,"Atlas Stores","Brick & Mortar",Prod010,Cus010,Mark003,2018-05-30,3,3778,"INR"
+Cus012,"Integration Stores","Brick & Mortar",Prod010,Cus012,Mark003,2018-05-31,1,537,"INR"
+Cus010,"Atlas Stores","Brick & Mortar",Prod010,Cus010,Mark003,2018-05-31,1,1417,"INR"
+Cus014,"Forward Stores","Brick & Mortar",Prod010,Cus014,Mark003,2018-05-31,4,5306,"INR"
+Cus010,"Atlas Stores","Brick & Mortar",Prod010,Cus010,Mark003,2018-06-01,1,472,"INR"
+Cus003,"Excel Stores","Brick & Mortar",Prod010,Cus003,Mark003,2018-06-01,3,4051,"INR"
+Cus013,"Unity Stores","Brick & Mortar",Prod010,Cus013,Mark003,2018-06-01,10,14815,"INR"
+Cus003,"Excel Stores","Brick & Mortar",Prod010,Cus003,Mark003,2018-06-06,3,4495,"INR"
+Cus012,"Integration Stores","Brick & Mortar",Prod010,Cus012,Mark003,2018-06-07,2,2690,"INR"
+Cus010,"Atlas Stores","Brick & Mortar",Prod010,Cus010,Mark003,2018-06-07,1,1417,"INR"
+Cus003,"Excel Stores","Brick & Mortar",Prod010,Cus003,Mark003,2018-06-08,1,449,"INR"
+Cus014,"Forward Stores","Brick & Mortar",Prod010,Cus014,Mark003,2018-06-08,18,23866,"INR"
+Cus003,"Excel Stores","Brick & Mortar",Prod010,Cus003,Mark003,2018-06-11,1,898,"INR"
+Cus013,"Unity Stores","Brick & Mortar",Prod010,Cus013,Mark003,2018-06-11,3,4940,"INR"
+Cus003,"Excel Stores","Brick & Mortar",Prod010,Cus003,Mark003,2018-06-13,1,449,"INR"
+Cus012,"Integration Stores","Brick & Mortar",Prod010,Cus012,Mark003,2018-06-14,1,2153,"INR"
+Cus010,"Atlas Stores","Brick & Mortar",Prod010,Cus010,Mark003,2018-06-14,1,472,"INR"
+Cus003,"Excel Stores","Brick & Mortar",Prod010,Cus003,Mark003,2018-06-14,1,449,"INR"
+Cus014,"Forward Stores","Brick & Mortar",Prod010,Cus014,Mark003,2018-06-14,4,5306,"INR"
+Cus003,"Excel Stores","Brick & Mortar",Prod010,Cus003,Mark003,2018-06-15,3,3602,"INR"
+Cus011,"Flawless Stores","Brick & Mortar",Prod010,Cus011,Mark003,2018-06-18,4,3583,"INR"
+Cus003,"Excel Stores","Brick & Mortar",Prod010,Cus003,Mark003,2018-06-18,4,4954,"INR"
+Cus010,"Atlas Stores","Brick & Mortar",Prod010,Cus010,Mark003,2018-06-21,1,1889,"INR"
+Cus010,"Atlas Stores","Brick & Mortar",Prod010,Cus010,Mark003,2018-07-18,1,472,"INR"
+Cus003,"Excel Stores","Brick & Mortar",Prod010,Cus003,Mark003,2018-07-18,1,1352,"INR"
+Cus012,"Integration Stores","Brick & Mortar",Prod010,Cus012,Mark003,2018-07-19,1,1616,"INR"
+Cus003,"Excel Stores","Brick & Mortar",Prod010,Cus003,Mark003,2018-07-19,1,449,"INR"
+Cus003,"Excel Stores","Brick & Mortar",Prod010,Cus003,Mark003,2018-07-23,1,1801,"INR"
+Cus003,"Excel Stores","Brick & Mortar",Prod010,Cus003,Mark003,2018-07-30,1,1801,"INR"
+Cus003,"Excel Stores","Brick & Mortar",Prod010,Cus003,Mark003,2019-01-25,1,449,"INR"
+Cus003,"Excel Stores","Brick & Mortar",Prod010,Cus003,Mark003,2019-02-04,1,449,"INR"
+Cus003,"Excel Stores","Brick & Mortar",Prod010,Cus003,Mark003,2019-02-20,1,449,"INR"
+Cus003,"Excel Stores","Brick & Mortar",Prod010,Cus003,Mark003,2019-03-13,1,444,"INR"
+Cus003,"Excel Stores","Brick & Mortar",Prod010,Cus003,Mark003,2019-03-28,1,444,"INR"
+Cus003,"Excel Stores","Brick & Mortar",Prod010,Cus003,Mark003,2019-04-30,1,0,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod011,Cus016,Mark002,2017-10-06,1,505,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod011,Cus016,Mark002,2017-10-13,1,1514,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod011,Cus016,Mark002,2017-10-20,1,2023,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod011,Cus016,Mark002,2017-10-27,25,37889,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod011,Cus016,Mark002,2018-02-08,1,593,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod011,Cus007,Mark004,2018-02-16,1,597,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod011,Cus007,Mark004,2018-02-26,1,2389,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod011,Cus016,Mark002,2018-03-01,1,593,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod011,Cus007,Mark004,2018-03-02,1,1194,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod011,Cus007,Mark004,2018-03-05,8,13736,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod011,Cus007,Mark004,2018-03-12,1,1194,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod011,Cus007,Mark004,2018-04-03,1,597,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod011,Cus007,Mark004,2018-04-09,1,597,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod011,Cus007,Mark004,2018-04-13,1,597,"INR"
+Cus017,"Epic Stores","Brick & Mortar",Prod011,Cus017,Mark007,2018-04-24,17,17472,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod011,Cus007,Mark004,2018-04-26,2,2986,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod011,Cus007,Mark004,2018-04-27,2,2986,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod011,Cus007,Mark004,2018-05-07,1,597,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod011,Cus007,Mark004,2018-05-14,1,1194,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod011,Cus007,Mark004,2018-05-18,1,796,"INR"
+Cus017,"Epic Stores","Brick & Mortar",Prod011,Cus017,Mark007,2018-05-31,26,26722,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod011,Cus007,Mark004,2018-06-11,1,796,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod011,Cus007,Mark004,2018-06-13,1,796,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod011,Cus007,Mark004,2018-06-14,1,3185,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod011,Cus007,Mark004,2018-06-18,1,796,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod011,Cus007,Mark004,2018-06-22,1,2389,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod011,Cus007,Mark004,2018-06-29,1,3185,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod011,Cus007,Mark004,2018-07-09,2,5574,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod011,Cus007,Mark004,2018-07-13,1,796,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod011,Cus007,Mark004,2018-07-20,1,796,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod011,Cus007,Mark004,2018-07-27,1,796,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod011,Cus007,Mark004,2018-08-03,1,1593,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod011,Cus016,Mark002,2018-10-12,1,514,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod011,Cus007,Mark004,2018-10-17,1,4759,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod011,Cus007,Mark004,2018-10-25,1,1190,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod011,Cus007,Mark004,2018-10-26,1,1190,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod011,Cus016,Mark002,2018-10-31,3,4106,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod011,Cus007,Mark004,2018-11-05,2,5949,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod011,Cus007,Mark004,2018-11-06,2,5949,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod011,Cus016,Mark002,2018-12-07,1,514,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod011,Cus016,Mark002,2018-12-14,1,514,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod011,Cus016,Mark002,2018-12-21,1,514,"INR"
+Cus018,"Electricalslance Stores","Brick & Mortar",Prod011,Cus018,Mark002,2018-12-28,1,0,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod011,Cus016,Mark002,2019-01-28,1,514,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod011,Cus016,Mark002,2019-02-01,1,514,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod011,Cus016,Mark002,2019-02-08,1,1028,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod011,Cus016,Mark002,2019-02-15,1,2056,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod011,Cus007,Mark004,2019-02-22,1,796,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod011,Cus016,Mark002,2019-02-22,1,1542,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod011,Cus016,Mark002,2019-03-01,1,514,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod011,Cus016,Mark002,2019-03-08,1,1028,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod011,Cus007,Mark004,2019-04-12,1,796,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod011,Cus007,Mark004,2019-06-03,1,796,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod011,Cus007,Mark004,2019-06-17,1,1593,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod011,Cus007,Mark004,2019-06-24,1,796,"INR"
+Cus011,"Flawless Stores","Brick & Mortar",Prod011,Cus011,Mark003,2019-07-15,1,611,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod011,Cus016,Mark002,2019-08-16,1,1028,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod011,Cus016,Mark002,2019-09-27,1,514,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod011,Cus016,Mark002,2019-10-04,1,514,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod011,Cus016,Mark002,2019-10-18,1,514,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod011,Cus007,Mark004,2019-10-21,1,796,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod011,Cus007,Mark004,2019-10-25,1,796,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod011,Cus016,Mark002,2019-11-01,1,514,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod011,Cus007,Mark004,2019-11-04,1,796,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod011,Cus007,Mark004,2019-11-08,1,1593,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod011,Cus016,Mark002,2019-11-08,1,514,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod011,Cus007,Mark004,2019-11-15,1,3185,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod011,Cus016,Mark002,2019-11-15,1,514,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod011,Cus016,Mark002,2019-11-18,1,514,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod011,Cus007,Mark004,2019-12-06,2,4778,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod011,Cus016,Mark002,2019-12-06,1,514,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod011,Cus007,Mark004,2019-12-13,4,10352,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod011,Cus007,Mark004,2019-12-20,1,796,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod011,Cus016,Mark002,2020-06-12,1,1028,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod011,Cus016,Mark002,2020-06-16,1,514,"INR"
+Cus019,"Electricalsopedia Stores","Brick & Mortar",Prod012,Cus019,Mark002,2018-06-05,33,29648,"INR"
+Cus001,"Surge Stores","Brick & Mortar",Prod013,Cus001,Mark001,2017-10-10,240,143560,"INR"
+Cus005,"Premium Stores","Brick & Mortar",Prod013,Cus005,Mark004,2017-10-11,7,6204,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod013,Cus007,Mark004,2017-10-16,1,495,"INR"
+Cus006,"Electricalsara Stores","Brick & Mortar",Prod013,Cus006,Mark004,2017-10-23,20,25130,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod013,Cus007,Mark004,2017-10-25,1,986,"INR"
+Cus020,Nixon,E-Commerce,Prod013,Cus020,Mark004,2017-11-02,13,23898,"INR"
+Cus005,"Premium Stores","Brick & Mortar",Prod013,Cus005,Mark004,2017-11-03,1,296,"INR"
+Cus006,"Electricalsara Stores","Brick & Mortar",Prod013,Cus006,Mark004,2017-11-08,1,356,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod013,Cus007,Mark004,2017-11-14,1,1977,"INR"
+Cus005,"Premium Stores","Brick & Mortar",Prod013,Cus005,Mark004,2017-11-22,1,296,"INR"
+Cus006,"Electricalsara Stores","Brick & Mortar",Prod013,Cus006,Mark004,2017-11-22,7,8375,"INR"
+Cus020,Nixon,E-Commerce,Prod013,Cus020,Mark004,2017-12-05,4,7171,"INR"
+Cus006,"Electricalsara Stores","Brick & Mortar",Prod013,Cus006,Mark004,2017-12-15,1,356,"INR"
+Cus006,"Electricalsara Stores","Brick & Mortar",Prod013,Cus006,Mark004,2018-01-15,1,356,"INR"
+Cus006,"Electricalsara Stores","Brick & Mortar",Prod013,Cus006,Mark004,2018-01-22,7,8375,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod013,Cus007,Mark004,2018-02-06,208,77931,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod013,Cus007,Mark004,2018-02-08,105,40704,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod013,Cus007,Mark004,2018-02-09,125,47074,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod013,Cus007,Mark004,2018-02-14,10,4028,"INR"
+Cus002,"Nomad Stores","Brick & Mortar",Prod013,Cus002,Mark002,2018-04-24,33,30167,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod013,Cus007,Mark004,2018-05-24,6,1968,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod014,Cus007,Mark004,2017-11-20,3,1366,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod014,Cus007,Mark004,2017-12-01,1,495,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod014,Cus007,Mark004,2018-03-22,17,6713,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod015,Cus007,Mark004,2018-05-18,57,27708,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod016,Cus007,Mark004,2017-10-13,1,537,"INR"
+Cus005,"Premium Stores","Brick & Mortar",Prod016,Cus005,Mark004,2017-10-17,7,7644,"INR"
+Cus005,"Premium Stores","Brick & Mortar",Prod016,Cus005,Mark004,2017-11-21,1,157,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod016,Cus007,Mark004,2017-11-24,8,10972,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod016,Cus007,Mark004,2017-12-01,1,1218,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod016,Cus007,Mark004,2017-12-04,9,13407,"INR"
+Cus005,"Premium Stores","Brick & Mortar",Prod016,Cus005,Mark006,2018-01-10,5,0,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod016,Cus007,Mark004,2018-01-12,1,245,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod016,Cus007,Mark004,2018-02-22,1,245,"INR"
+Cus001,"Surge Stores","Brick & Mortar",Prod016,Cus001,Mark001,2018-06-28,187,115481,"INR"
+Cus006,"Electricalsara Stores","Brick & Mortar",Prod016,Cus006,Mark004,2018-06-29,38,78986,"INR"
+Cus006,"Electricalsara Stores","Brick & Mortar",Prod016,Cus006,Mark004,2018-07-02,119,245546,"INR"
+Cus006,"Electricalsara Stores","Brick & Mortar",Prod016,Cus006,Mark004,2018-07-03,79,162292,"INR"
+Cus006,"Electricalsara Stores","Brick & Mortar",Prod016,Cus006,Mark004,2018-07-04,1,412,"INR"
+Cus006,"Electricalsara Stores","Brick & Mortar",Prod016,Cus006,Mark004,2018-07-06,5,7981,"INR"
+Cus006,"Electricalsara Stores","Brick & Mortar",Prod016,Cus006,Mark004,2018-07-11,19,27505,"INR"
+Cus021,Modular,E-Commerce,Prod016,Cus021,Mark005,2018-07-13,173,145921,"INR"
+Cus006,"Electricalsara Stores","Brick & Mortar",Prod016,Cus006,Mark004,2018-07-13,1,546,"INR"
+Cus006,"Electricalsara Stores","Brick & Mortar",Prod016,Cus006,Mark004,2018-07-19,20,28167,"INR"
+Cus006,"Electricalsara Stores","Brick & Mortar",Prod016,Cus006,Mark004,2018-07-24,23,32764,"INR"
+Cus006,"Electricalsara Stores","Brick & Mortar",Prod016,Cus006,Mark004,2018-07-25,5,6648,"INR"
+Cus006,"Electricalsara Stores","Brick & Mortar",Prod016,Cus006,Mark004,2018-07-26,28,40366,"INR"
+Cus006,"Electricalsara Stores","Brick & Mortar",Prod016,Cus006,Mark004,2018-07-27,3,4273,"INR"
+Cus006,"Electricalsara Stores","Brick & Mortar",Prod016,Cus006,Mark004,2018-07-31,1,949,"INR"
+Cus006,"Electricalsara Stores","Brick & Mortar",Prod016,Cus006,Mark004,2018-08-01,1,477,"INR"
+Cus006,"Electricalsara Stores","Brick & Mortar",Prod016,Cus006,Mark004,2018-08-02,1,949,"INR"
+Cus006,"Electricalsara Stores","Brick & Mortar",Prod016,Cus006,Mark004,2018-08-03,41,70356,"INR"
+Cus005,"Premium Stores","Brick & Mortar",Prod016,Cus005,Mark004,2018-08-07,7,6528,"INR"
+Cus006,"Electricalsara Stores","Brick & Mortar",Prod016,Cus006,Mark004,2018-08-07,1,477,"INR"
+Cus006,"Electricalsara Stores","Brick & Mortar",Prod016,Cus006,Mark004,2018-08-10,12,19727,"INR"
+Cus006,"Electricalsara Stores","Brick & Mortar",Prod016,Cus006,Mark004,2018-08-15,2,3324,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod016,Cus007,Mark004,2018-09-12,227,103889,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod016,Cus007,Mark004,2018-09-13,36,18167,"INR"
+Cus006,"Electricalsara Stores","Brick & Mortar",Prod016,Cus006,Mark004,2019-02-06,112,106560,"INR"
+Cus006,"Electricalsara Stores","Brick & Mortar",Prod016,Cus006,Mark004,2019-03-15,50,90130,"INR"
+Cus006,"Electricalsara Stores","Brick & Mortar",Prod016,Cus006,Mark004,2019-03-22,30,54079,"INR"
+Cus021,Modular,E-Commerce,Prod016,Cus021,Mark005,2019-05-08,182,153815,"INR"
+Cus005,"Premium Stores","Brick & Mortar",Prod016,Cus005,Mark004,2019-05-17,1,306,"INR"
+Cus021,Modular,E-Commerce,Prod016,Cus021,Mark005,2019-07-12,157,132519,"INR"
+Cus006,"Electricalsara Stores","Brick & Mortar",Prod016,Cus006,Mark004,2019-07-29,111,152833,"INR"
+Cus006,"Electricalsara Stores","Brick & Mortar",Prod016,Cus006,Mark004,2019-08-01,7,10144,"INR"
+Cus006,"Electricalsara Stores","Brick & Mortar",Prod016,Cus006,Mark004,2019-08-28,7,8991,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod016,Cus007,Mark004,2019-09-06,1,1218,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod016,Cus007,Mark004,2019-09-13,1,1708,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod016,Cus007,Mark004,2019-09-19,177,79676,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod016,Cus007,Mark004,2019-09-20,1,486,"INR"
+Cus006,"Electricalsara Stores","Brick & Mortar",Prod016,Cus006,Mark004,2019-10-10,18,25356,"INR"
+Cus006,"Electricalsara Stores","Brick & Mortar",Prod016,Cus006,Mark004,2019-11-07,13,17519,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod016,Cus007,Mark004,2019-11-29,4,6338,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod017,Cus022,Mark002,2017-10-05,4,9190,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod017,Cus016,Mark002,2017-10-06,4,8384,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod017,Cus016,Mark002,2017-10-12,2,4889,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod017,Cus016,Mark002,2017-10-13,2,3495,"INR"
+Cus023,Sound,E-Commerce,Prod017,Cus023,Mark002,2017-10-13,1,2065,"INR"
+Cus023,Sound,E-Commerce,Prod017,Cus023,Mark002,2017-10-25,1,1380,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod017,Cus016,Mark002,2017-10-27,6,11870,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod017,Cus016,Mark002,2017-11-03,6,12574,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod017,Cus016,Mark002,2017-11-06,1,2796,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod017,Cus016,Mark002,2017-11-10,2,4889,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod017,Cus016,Mark002,2017-11-17,1,2792,"INR"
+Cus023,Sound,E-Commerce,Prod017,Cus023,Mark002,2017-11-20,33,68898,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod017,Cus016,Mark002,2017-11-23,1,2792,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod017,Cus016,Mark002,2017-11-24,3,6991,"INR"
+Cus024,Power,E-Commerce,Prod017,Cus024,Mark002,2017-11-27,1,681,"INR"
+Cus023,Sound,E-Commerce,Prod017,Cus023,Mark002,2017-11-30,22,44782,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod017,Cus016,Mark002,2017-12-01,13,26537,"INR"
+Cus023,Sound,E-Commerce,Prod017,Cus023,Mark002,2017-12-06,2,3444,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod017,Cus016,Mark002,2017-12-07,2,4190,"INR"
+Cus023,Sound,E-Commerce,Prod017,Cus023,Mark002,2017-12-07,1,2755,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod017,Cus016,Mark002,2017-12-08,9,18852,"INR"
+Cus023,Sound,E-Commerce,Prod017,Cus023,Mark002,2017-12-12,1,1380,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod017,Cus016,Mark002,2017-12-14,3,6287,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod017,Cus016,Mark002,2017-12-15,20,41199,"INR"
+Cus024,Power,E-Commerce,Prod017,Cus024,Mark002,2017-12-18,1,1356,"INR"
+Cus024,Power,E-Commerce,Prod017,Cus024,Mark002,2017-12-19,1,681,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod017,Cus016,Mark002,2017-12-21,3,5588,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod017,Cus016,Mark002,2017-12-22,15,32125,"INR"
+Cus023,Sound,E-Commerce,Prod017,Cus023,Mark002,2017-12-22,7,13778,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod017,Cus016,Mark002,2018-01-02,2,4194,"INR"
+Cus024,Power,E-Commerce,Prod017,Cus024,Mark002,2018-01-02,1,2713,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod017,Cus016,Mark002,2018-01-05,31,65648,"INR"
+Cus023,Sound,E-Commerce,Prod017,Cus023,Mark002,2018-01-08,23,48231,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod017,Cus016,Mark002,2018-01-12,8,16065,"INR"
+Cus024,Power,E-Commerce,Prod017,Cus024,Mark002,2018-01-15,1,1356,"INR"
+Cus024,Power,E-Commerce,Prod017,Cus024,Mark002,2018-01-16,1,1356,"INR"
+Cus024,Power,E-Commerce,Prod017,Cus024,Mark002,2018-01-29,1,681,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod017,Cus016,Mark002,2018-02-01,1,1398,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod017,Cus016,Mark002,2018-02-02,10,20255,"INR"
+Cus024,Power,E-Commerce,Prod017,Cus024,Mark002,2018-02-06,1,681,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod017,Cus016,Mark002,2018-02-09,1,699,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod017,Cus022,Mark002,2018-02-22,6,12014,"INR"
+Cus024,Power,E-Commerce,Prod017,Cus024,Mark002,2018-04-10,1,681,"INR"
+Cus025,Path,E-Commerce,Prod017,Cus025,Mark002,2018-04-19,19,43537,"INR"
+Cus024,Power,E-Commerce,Prod017,Cus024,Mark002,2018-04-23,1,681,"INR"
+Cus025,Path,E-Commerce,Prod017,Cus025,Mark002,2018-05-08,28,65310,"INR"
+Cus024,Power,E-Commerce,Prod017,Cus024,Mark002,2018-05-15,1,681,"INR"
+Cus025,Path,E-Commerce,Prod017,Cus025,Mark002,2018-06-04,9,21769,"INR"
+Cus025,Path,E-Commerce,Prod017,Cus025,Mark002,2018-06-08,1,2176,"INR"
+Cus023,Sound,E-Commerce,Prod018,Cus023,Mark002,2018-01-16,8,17222,"INR"
+Cus023,Sound,E-Commerce,Prod018,Cus023,Mark002,2018-01-17,24,48917,"INR"
+Cus023,Sound,E-Commerce,Prod018,Cus023,Mark002,2018-02-09,1,1380,"INR"
+Cus026,Insight,E-Commerce,Prod018,Cus026,Mark008,2018-02-12,13,26333,"INR"
+Cus026,Insight,E-Commerce,Prod018,Cus026,Mark008,2018-02-16,13,26333,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod018,Cus016,Mark002,2018-02-22,1,347,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2018-02-22,3,6125,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod018,Cus016,Mark002,2018-02-23,5,10824,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2018-02-26,1,3065,"INR"
+Cus023,Sound,E-Commerce,Prod018,Cus023,Mark002,2018-03-01,1,1380,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod018,Cus016,Mark002,2018-03-02,2,3843,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2018-03-05,1,3065,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2018-03-06,1,3065,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2018-03-08,1,3065,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2018-03-09,1,3065,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2018-03-15,3,6130,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2018-03-19,1,3065,"INR"
+Cus025,Path,E-Commerce,Prod018,Cus025,Mark002,2018-03-19,5,10884,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2018-03-20,1,3065,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2018-03-21,1,3065,"INR"
+Cus023,Sound,E-Commerce,Prod018,Cus023,Mark002,2018-03-21,1,343,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2018-03-23,1,3065,"INR"
+Cus023,Sound,E-Commerce,Prod018,Cus023,Mark002,2018-03-23,1,690,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2018-03-27,1,3065,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2018-03-28,1,3065,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2018-03-29,1,3065,"INR"
+Cus023,Sound,E-Commerce,Prod018,Cus023,Mark002,2018-03-29,1,1380,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2018-04-04,1,3065,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2018-04-06,5,12250,"INR"
+Cus023,Sound,E-Commerce,Prod018,Cus023,Mark002,2018-04-11,2,4130,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2018-04-12,3,6125,"INR"
+Cus025,Path,E-Commerce,Prod018,Cus025,Mark002,2018-04-12,14,32653,"INR"
+Cus011,"Flawless Stores","Brick & Mortar",Prod018,Cus011,Mark003,2018-04-13,11,37690,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2018-04-17,1,3065,"INR"
+Cus023,Sound,E-Commerce,Prod018,Cus023,Mark002,2018-04-18,2,3444,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2018-04-19,4,9190,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2018-04-20,1,3065,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2018-04-23,1,3065,"INR"
+Cus024,Power,E-Commerce,Prod018,Cus024,Mark002,2018-04-24,2,3056,"INR"
+Cus011,"Flawless Stores","Brick & Mortar",Prod018,Cus011,Mark003,2018-04-27,10,34157,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2018-04-27,1,3065,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2018-04-30,1,3065,"INR"
+Cus024,Power,E-Commerce,Prod018,Cus024,Mark002,2018-04-30,2,3056,"INR"
+Cus023,Sound,E-Commerce,Prod018,Cus023,Mark002,2018-04-30,1,2065,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2018-05-03,3,6125,"INR"
+Cus023,Sound,E-Commerce,Prod018,Cus023,Mark002,2018-05-03,1,1380,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2018-05-04,4,9190,"INR"
+Cus011,"Flawless Stores","Brick & Mortar",Prod018,Cus011,Mark003,2018-05-07,6,20023,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2018-05-09,1,3065,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2018-05-09,13,28269,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2018-05-14,1,3065,"INR"
+Cus024,Power,E-Commerce,Prod018,Cus024,Mark002,2018-05-14,2,3056,"INR"
+Cus024,Power,E-Commerce,Prod018,Cus024,Mark002,2018-05-15,2,3056,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2018-05-16,1,3065,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2018-05-16,13,28269,"INR"
+Cus011,"Flawless Stores","Brick & Mortar",Prod018,Cus011,Mark003,2018-05-17,1,1176,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2018-05-17,3,6125,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2018-05-17,27,56537,"INR"
+Cus011,"Flawless Stores","Brick & Mortar",Prod018,Cus011,Mark003,2018-05-18,5,16491,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2018-05-18,1,3065,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2018-05-18,13,28269,"INR"
+Cus024,Power,E-Commerce,Prod018,Cus024,Mark002,2018-05-21,2,3056,"INR"
+Cus024,Power,E-Commerce,Prod018,Cus024,Mark002,2018-05-22,2,3056,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2018-05-23,1,3065,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2018-05-24,1,3065,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2018-05-25,1,3065,"INR"
+Cus011,"Flawless Stores","Brick & Mortar",Prod018,Cus011,Mark003,2018-05-28,4,14134,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2018-05-30,3,6125,"INR"
+Cus011,"Flawless Stores","Brick & Mortar",Prod018,Cus011,Mark003,2018-06-01,5,16491,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2018-06-01,1,3065,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2018-06-04,1,3065,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2018-06-05,1,3065,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2018-06-07,3,6125,"INR"
+Cus011,"Flawless Stores","Brick & Mortar",Prod018,Cus011,Mark003,2018-06-11,11,40046,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2018-06-11,1,3065,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2018-06-12,1,3065,"INR"
+Cus024,Power,E-Commerce,Prod018,Cus024,Mark002,2018-06-12,1,338,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2018-06-13,1,3065,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2018-06-14,5,12250,"INR"
+Cus023,Sound,E-Commerce,Prod018,Cus023,Mark002,2018-06-14,7,14407,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2018-06-15,3,6125,"INR"
+Cus011,"Flawless Stores","Brick & Mortar",Prod018,Cus011,Mark003,2018-06-19,7,25912,"INR"
+Cus026,Insight,E-Commerce,Prod018,Cus026,Mark008,2018-06-19,27,52667,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2018-06-19,1,3065,"INR"
+Cus024,Power,E-Commerce,Prod018,Cus024,Mark002,2018-06-19,1,338,"INR"
+Cus023,Sound,E-Commerce,Prod018,Cus023,Mark002,2018-06-19,2,4319,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2018-06-20,1,3065,"INR"
+Cus025,Path,E-Commerce,Prod018,Cus025,Mark002,2018-06-20,108,251903,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2018-06-21,5,12250,"INR"
+Cus023,Sound,E-Commerce,Prod018,Cus023,Mark002,2018-06-21,1,1440,"INR"
+Cus011,"Flawless Stores","Brick & Mortar",Prod018,Cus011,Mark003,2018-06-25,6,21199,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2018-06-25,1,3065,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2018-06-27,3,6125,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2018-06-28,3,6125,"INR"
+Cus023,Sound,E-Commerce,Prod018,Cus023,Mark002,2018-06-28,1,361,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2018-06-29,1,3065,"INR"
+Cus011,"Flawless Stores","Brick & Mortar",Prod018,Cus011,Mark003,2018-07-02,16,55356,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2018-07-02,1,3065,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2018-07-05,4,9190,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2018-07-06,3,6125,"INR"
+Cus011,"Flawless Stores","Brick & Mortar",Prod018,Cus011,Mark003,2018-07-09,8,29444,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2018-07-09,1,3065,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2018-07-10,1,3065,"INR"
+Cus024,Power,E-Commerce,Prod018,Cus024,Mark002,2018-07-10,1,338,"INR"
+Cus023,Sound,E-Commerce,Prod018,Cus023,Mark002,2018-07-10,1,1440,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2018-07-11,1,3065,"INR"
+Cus023,Sound,E-Commerce,Prod018,Cus023,Mark002,2018-07-12,1,2162,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2018-07-13,1,3065,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2018-07-16,1,3065,"INR"
+Cus011,"Flawless Stores","Brick & Mortar",Prod018,Cus011,Mark003,2018-07-17,2,7065,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2018-07-17,5,12250,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2018-07-19,3,6125,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2018-07-19,13,28269,"INR"
+Cus023,Sound,E-Commerce,Prod018,Cus023,Mark002,2018-07-20,1,1440,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2018-07-25,3,6125,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2018-07-26,1,3065,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2018-07-27,1,3065,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2018-07-30,1,3065,"INR"
+Cus023,Sound,E-Commerce,Prod018,Cus023,Mark002,2018-07-30,1,2162,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2018-08-01,1,3065,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2018-08-02,1,3065,"INR"
+Cus025,Path,E-Commerce,Prod018,Cus025,Mark002,2018-08-02,24,55977,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2018-08-03,1,3065,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2018-08-06,1,3065,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2018-08-08,3,6125,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2018-08-09,1,3065,"INR"
+Cus025,Path,E-Commerce,Prod018,Cus025,Mark002,2018-08-09,5,10495,"INR"
+Cus011,"Flawless Stores","Brick & Mortar",Prod018,Cus011,Mark003,2018-08-10,13,45935,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2018-08-10,3,6125,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2018-08-13,3,6125,"INR"
+Cus025,Path,E-Commerce,Prod018,Cus025,Mark002,2018-08-13,15,34986,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2018-08-14,1,3065,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2018-08-14,13,28269,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2018-08-17,4,9190,"INR"
+Cus025,Path,E-Commerce,Prod018,Cus025,Mark002,2018-08-17,15,34986,"INR"
+Cus011,"Flawless Stores","Brick & Mortar",Prod018,Cus011,Mark003,2018-08-20,10,36509,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2018-08-21,5,12250,"INR"
+Cus024,Power,E-Commerce,Prod018,Cus024,Mark002,2018-08-21,1,338,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2018-08-22,1,3065,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2018-08-23,3,6125,"INR"
+Cus025,Path,E-Commerce,Prod018,Cus025,Mark002,2018-08-23,12,27991,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2018-08-24,3,6125,"INR"
+Cus011,"Flawless Stores","Brick & Mortar",Prod018,Cus011,Mark003,2018-08-27,13,45935,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2018-08-29,1,3065,"INR"
+Cus023,Sound,E-Commerce,Prod018,Cus023,Mark002,2018-08-29,1,361,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2018-08-31,7,15315,"INR"
+Cus025,Path,E-Commerce,Prod018,Cus025,Mark002,2018-08-31,20,45481,"INR"
+Cus011,"Flawless Stores","Brick & Mortar",Prod018,Cus011,Mark003,2018-09-03,40,140157,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2018-09-03,1,3065,"INR"
+Cus025,Path,E-Commerce,Prod018,Cus025,Mark002,2018-09-03,8,17495,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2018-09-04,13,28269,"INR"
+Cus025,Path,E-Commerce,Prod018,Cus025,Mark002,2018-09-06,15,34986,"INR"
+Cus023,Sound,E-Commerce,Prod018,Cus023,Mark002,2018-09-06,1,361,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2018-09-07,1,3065,"INR"
+Cus025,Path,E-Commerce,Prod018,Cus025,Mark002,2018-09-07,26,59477,"INR"
+Cus023,Sound,E-Commerce,Prod018,Cus023,Mark002,2018-09-07,1,1079,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2018-09-10,3,6125,"INR"
+Cus024,Power,E-Commerce,Prod018,Cus024,Mark002,2018-09-12,1,681,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2018-09-13,3,6130,"INR"
+Cus025,Path,E-Commerce,Prod018,Cus025,Mark002,2018-09-13,8,17495,"INR"
+Cus023,Sound,E-Commerce,Prod018,Cus023,Mark002,2018-09-13,1,1440,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2018-09-14,3,6125,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2018-09-17,1,3065,"INR"
+Cus024,Power,E-Commerce,Prod018,Cus024,Mark002,2018-09-18,1,676,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2018-09-19,1,3065,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2018-09-21,1,3065,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2018-09-21,13,28269,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2018-09-24,1,3065,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod018,Cus016,Mark002,2018-09-26,12,24792,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2018-09-26,1,3065,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2018-09-27,1,3065,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2018-09-28,1,3065,"INR"
+Cus023,Sound,E-Commerce,Prod018,Cus023,Mark002,2018-09-28,1,1440,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod018,Cus016,Mark002,2018-10-01,6,11519,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2018-10-01,1,3065,"INR"
+Cus024,Power,E-Commerce,Prod018,Cus024,Mark002,2018-10-01,1,1356,"INR"
+Cus024,Power,E-Commerce,Prod018,Cus024,Mark002,2018-10-02,1,1019,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2018-10-03,1,3065,"INR"
+Cus011,"Flawless Stores","Brick & Mortar",Prod018,Cus011,Mark003,2018-10-08,1,1176,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod018,Cus016,Mark002,2018-10-08,1,1398,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2018-10-08,3,6125,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2018-10-09,4,9190,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2018-10-11,1,3065,"INR"
+Cus025,Path,E-Commerce,Prod018,Cus025,Mark002,2018-10-11,8,17495,"INR"
+Cus023,Sound,E-Commerce,Prod018,Cus023,Mark002,2018-10-11,1,722,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod018,Cus016,Mark002,2018-10-12,8,17463,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2018-10-12,5,12250,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2018-10-12,80,169606,"INR"
+Cus025,Path,E-Commerce,Prod018,Cus025,Mark002,2018-10-15,8,17495,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2018-10-17,1,3065,"INR"
+Cus024,Power,E-Commerce,Prod018,Cus024,Mark002,2018-10-17,1,338,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2018-10-17,13,28269,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2018-10-18,1,3065,"INR"
+Cus025,Path,E-Commerce,Prod018,Cus025,Mark002,2018-10-18,8,17495,"INR"
+Cus023,Sound,E-Commerce,Prod018,Cus023,Mark002,2018-10-18,1,361,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2018-10-19,1,3065,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2018-10-19,13,28269,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod018,Cus016,Mark002,2018-10-22,2,3495,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2018-10-22,3,6125,"INR"
+Cus025,Path,E-Commerce,Prod018,Cus025,Mark002,2018-10-22,3,6995,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod018,Cus016,Mark002,2018-10-23,1,1745,"INR"
+Cus023,Sound,E-Commerce,Prod018,Cus023,Mark002,2018-10-23,1,722,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod018,Cus016,Mark002,2018-10-24,2,4190,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2018-10-25,1,3065,"INR"
+Cus025,Path,E-Commerce,Prod018,Cus025,Mark002,2018-10-25,17,38486,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2018-10-29,1,3065,"INR"
+Cus025,Path,E-Commerce,Prod018,Cus025,Mark002,2018-10-29,23,52481,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod018,Cus016,Mark002,2018-10-30,17,35963,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2018-10-30,13,28269,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2018-10-31,1,3065,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2018-11-01,15,33690,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2018-11-01,13,28269,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2018-11-02,3,6125,"INR"
+Cus023,Sound,E-Commerce,Prod018,Cus023,Mark002,2018-11-02,1,722,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2018-11-05,4,9190,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod018,Cus016,Mark002,2018-11-06,18,38060,"INR"
+Cus025,Path,E-Commerce,Prod018,Cus025,Mark002,2018-11-06,8,17495,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2018-11-06,13,28269,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod018,Cus016,Mark002,2018-11-07,11,23394,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2018-11-08,4,9190,"INR"
+Cus025,Path,E-Commerce,Prod018,Cus025,Mark002,2018-11-08,9,20991,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod018,Cus016,Mark002,2018-11-09,21,43991,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2018-11-12,3,6125,"INR"
+Cus025,Path,E-Commerce,Prod018,Cus025,Mark002,2018-11-12,15,34986,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2018-11-12,13,28269,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2018-11-13,1,3065,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2018-11-13,13,28269,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2018-11-14,1,3065,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2018-11-15,3,6125,"INR"
+Cus025,Path,E-Commerce,Prod018,Cus025,Mark002,2018-11-15,8,17495,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod018,Cus016,Mark002,2018-11-16,37,77870,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2018-11-16,13,28269,"INR"
+Cus025,Path,E-Commerce,Prod018,Cus025,Mark002,2018-11-20,8,17495,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2018-11-20,13,28269,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2018-11-21,1,3065,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2018-11-22,3,6125,"INR"
+Cus025,Path,E-Commerce,Prod018,Cus025,Mark002,2018-11-22,23,52481,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2018-11-22,13,28269,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod018,Cus016,Mark002,2018-11-23,6,13264,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2018-11-23,4,9190,"INR"
+Cus023,Sound,E-Commerce,Prod018,Cus023,Mark002,2018-11-23,17,36014,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod018,Cus016,Mark002,2018-11-26,58,121509,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2018-11-27,13,28269,"INR"
+Cus023,Sound,E-Commerce,Prod018,Cus023,Mark002,2018-11-27,33,72028,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod018,Cus016,Mark002,2018-11-29,22,46444,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2018-11-29,1,3065,"INR"
+Cus025,Path,E-Commerce,Prod018,Cus025,Mark002,2018-11-29,8,17495,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2018-11-29,13,28269,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2018-12-03,1,3065,"INR"
+Cus025,Path,E-Commerce,Prod018,Cus025,Mark002,2018-12-03,8,17495,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2018-12-04,1,3065,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2018-12-04,13,28269,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2018-12-06,1,3065,"INR"
+Cus025,Path,E-Commerce,Prod018,Cus025,Mark002,2018-12-06,15,34986,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2018-12-06,13,28269,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod018,Cus016,Mark002,2018-12-07,59,122898,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2018-12-10,1,3065,"INR"
+Cus025,Path,E-Commerce,Prod018,Cus025,Mark002,2018-12-10,23,52481,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2018-12-10,13,28269,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2018-12-12,1,3065,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod018,Cus016,Mark002,2018-12-13,9,19556,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2018-12-13,1,3065,"INR"
+Cus025,Path,E-Commerce,Prod018,Cus025,Mark002,2018-12-13,8,17495,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod018,Cus016,Mark002,2018-12-14,18,38407,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2018-12-14,4,9190,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2018-12-17,3,6125,"INR"
+Cus025,Path,E-Commerce,Prod018,Cus025,Mark002,2018-12-17,8,17495,"INR"
+Cus024,Power,E-Commerce,Prod018,Cus024,Mark002,2018-12-17,1,338,"INR"
+Cus025,Path,E-Commerce,Prod018,Cus025,Mark002,2018-12-18,11,24491,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2018-12-20,3,6125,"INR"
+Cus025,Path,E-Commerce,Prod018,Cus025,Mark002,2018-12-20,72,167935,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod018,Cus016,Mark002,2018-12-21,108,226963,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2018-12-21,4,9190,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2018-12-21,67,141343,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2018-12-28,5,12250,"INR"
+Cus025,Path,E-Commerce,Prod018,Cus025,Mark002,2019-01-04,27,62977,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-01-07,1,3065,"INR"
+Cus024,Power,E-Commerce,Prod018,Cus024,Mark002,2019-01-07,1,338,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-01-07,27,56532,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod018,Cus016,Mark002,2019-01-08,8,17458,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-01-08,12,27565,"INR"
+Cus024,Power,E-Commerce,Prod018,Cus024,Mark002,2019-01-08,1,338,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-01-10,1,3065,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod018,Cus016,Mark002,2019-01-11,18,38065,"INR"
+Cus023,Sound,E-Commerce,Prod018,Cus023,Mark002,2019-01-11,1,722,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-01-14,1,3065,"INR"
+Cus024,Power,E-Commerce,Prod018,Cus024,Mark002,2019-01-14,1,338,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-01-15,13,28269,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-01-16,12,27565,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-01-17,13,28269,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod018,Cus016,Mark002,2019-01-18,20,41898,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-01-18,12,27565,"INR"
+Cus025,Path,E-Commerce,Prod018,Cus025,Mark002,2019-01-21,45,104958,"INR"
+Cus023,Sound,E-Commerce,Prod018,Cus023,Mark002,2019-01-21,1,722,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-01-24,13,28269,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-01-25,53,113074,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod018,Cus016,Mark002,2019-01-28,55,115921,"INR"
+Cus025,Path,E-Commerce,Prod018,Cus025,Mark002,2019-01-28,24,55977,"INR"
+Cus025,Path,E-Commerce,Prod018,Cus025,Mark002,2019-01-30,45,104958,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-01-31,8,18375,"INR"
+Cus025,Path,E-Commerce,Prod018,Cus025,Mark002,2019-01-31,18,41981,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-01-31,13,28269,"INR"
+Cus023,Sound,E-Commerce,Prod018,Cus023,Mark002,2019-01-31,1,722,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod018,Cus016,Mark002,2019-02-01,15,31421,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod018,Cus016,Mark002,2019-02-04,34,71231,"INR"
+Cus023,Sound,E-Commerce,Prod018,Cus023,Mark002,2019-02-05,1,722,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-02-07,11,24500,"INR"
+Cus025,Path,E-Commerce,Prod018,Cus025,Mark002,2019-02-07,15,34986,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-02-07,13,28269,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod018,Cus016,Mark002,2019-02-08,26,55167,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-02-08,13,28269,"INR"
+Cus025,Path,E-Commerce,Prod018,Cus025,Mark002,2019-02-11,8,17495,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-02-12,5,12250,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-02-12,13,28269,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-02-13,12,27565,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-02-14,7,15315,"INR"
+Cus025,Path,E-Commerce,Prod018,Cus025,Mark002,2019-02-14,6,13995,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-02-14,13,28269,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod018,Cus016,Mark002,2019-02-15,62,129546,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-02-15,4,9190,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-02-15,13,28269,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-02-18,3,6125,"INR"
+Cus025,Path,E-Commerce,Prod018,Cus025,Mark002,2019-02-18,8,17495,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-02-19,3,6125,"INR"
+Cus024,Power,E-Commerce,Prod018,Cus024,Mark002,2019-02-19,1,338,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-02-19,13,28269,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-02-21,5,12250,"INR"
+Cus025,Path,E-Commerce,Prod018,Cus025,Mark002,2019-02-21,15,34986,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod018,Cus016,Mark002,2019-02-22,38,79273,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-02-22,1,3065,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-02-25,1,3065,"INR"
+Cus024,Power,E-Commerce,Prod018,Cus024,Mark002,2019-02-25,1,338,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-02-26,1,3065,"INR"
+Cus024,Power,E-Commerce,Prod018,Cus024,Mark002,2019-02-26,1,338,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-02-26,13,28269,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-02-27,1,3065,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-02-28,3,6125,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod018,Cus016,Mark002,2019-03-01,12,25144,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-03-04,1,3065,"INR"
+Cus025,Path,E-Commerce,Prod018,Cus025,Mark002,2019-03-05,8,17495,"INR"
+Cus024,Power,E-Commerce,Prod018,Cus024,Mark002,2019-03-05,1,338,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-03-05,13,28269,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-03-07,3,6125,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod018,Cus016,Mark002,2019-03-08,6,12921,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-03-08,1,3065,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-03-11,1,3065,"INR"
+Cus025,Path,E-Commerce,Prod018,Cus025,Mark002,2019-03-11,8,17495,"INR"
+Cus024,Power,E-Commerce,Prod018,Cus024,Mark002,2019-03-11,1,681,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-03-12,1,3065,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-03-13,1,3065,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-03-14,1,3065,"INR"
+Cus025,Path,E-Commerce,Prod018,Cus025,Mark002,2019-03-14,8,17495,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod018,Cus016,Mark002,2019-03-15,31,64250,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-03-15,3,6125,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-03-19,1,3065,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-03-21,1,3065,"INR"
+Cus025,Path,E-Commerce,Prod018,Cus025,Mark002,2019-03-21,3,6995,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-03-21,13,28269,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-03-25,1,3065,"INR"
+Cus025,Path,E-Commerce,Prod018,Cus025,Mark002,2019-03-25,3,6995,"INR"
+Cus024,Power,E-Commerce,Prod018,Cus024,Mark002,2019-03-25,1,681,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-03-26,1,3065,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-03-27,1,3065,"INR"
+Cus025,Path,E-Commerce,Prod018,Cus025,Mark002,2019-03-28,3,6995,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod018,Cus016,Mark002,2019-03-29,12,25491,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-03-29,13,28269,"INR"
+Cus025,Path,E-Commerce,Prod018,Cus025,Mark002,2019-03-30,8,17495,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-04-01,1,3065,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-04-02,1,3065,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-04-04,1,3065,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-04-04,13,28269,"INR"
+Cus025,Path,E-Commerce,Prod018,Cus025,Mark002,2019-04-05,3,6995,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-04-08,3,6125,"INR"
+Cus025,Path,E-Commerce,Prod018,Cus025,Mark002,2019-04-08,8,17495,"INR"
+Cus023,Sound,E-Commerce,Prod018,Cus023,Mark002,2019-04-08,1,361,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-04-09,13,28269,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-04-11,1,3065,"INR"
+Cus025,Path,E-Commerce,Prod018,Cus025,Mark002,2019-04-11,8,17495,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-04-11,13,28269,"INR"
+Cus023,Sound,E-Commerce,Prod018,Cus023,Mark002,2019-04-11,7,14407,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-04-12,1,3065,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-04-15,1,3065,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-04-16,1,3065,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-04-16,40,84806,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-04-17,1,3065,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-04-18,1,3065,"INR"
+Cus025,Path,E-Commerce,Prod018,Cus025,Mark002,2019-04-18,15,34986,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-04-23,1,3065,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-04-24,1,3065,"INR"
+Cus023,Sound,E-Commerce,Prod018,Cus023,Mark002,2019-04-25,3,7204,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-04-26,3,6125,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-04-26,13,28269,"INR"
+Cus024,Power,E-Commerce,Prod018,Cus024,Mark002,2019-04-29,1,338,"INR"
+Cus023,Sound,E-Commerce,Prod018,Cus023,Mark002,2019-04-30,13,28815,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-05-01,1,3065,"INR"
+Cus025,Path,E-Commerce,Prod018,Cus025,Mark002,2019-05-02,15,34986,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-05-02,13,28269,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-05-03,3,6130,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-05-03,27,56537,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-05-07,3,6125,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-05-09,1,3065,"INR"
+Cus024,Power,E-Commerce,Prod018,Cus024,Mark002,2019-05-09,1,338,"INR"
+Cus023,Sound,E-Commerce,Prod018,Cus023,Mark002,2019-05-09,7,14407,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-05-10,5,12250,"INR"
+Cus025,Path,E-Commerce,Prod018,Cus025,Mark002,2019-05-10,15,34986,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-05-10,13,28269,"INR"
+Cus024,Power,E-Commerce,Prod018,Cus024,Mark002,2019-05-13,1,338,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-05-14,13,28269,"INR"
+Cus023,Sound,E-Commerce,Prod018,Cus023,Mark002,2019-05-14,3,7204,"INR"
+Cus023,Sound,E-Commerce,Prod018,Cus023,Mark002,2019-05-15,3,7204,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-05-16,1,3065,"INR"
+Cus025,Path,E-Commerce,Prod018,Cus025,Mark002,2019-05-16,8,17495,"INR"
+Cus023,Sound,E-Commerce,Prod018,Cus023,Mark002,2019-05-16,7,14407,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod018,Cus016,Mark002,2019-05-17,1,1046,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-05-17,1,3065,"INR"
+Cus025,Path,E-Commerce,Prod018,Cus025,Mark002,2019-05-20,2,3500,"INR"
+Cus024,Power,E-Commerce,Prod018,Cus024,Mark002,2019-05-20,1,338,"INR"
+Cus023,Sound,E-Commerce,Prod018,Cus023,Mark002,2019-05-20,7,14407,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-05-21,4,9190,"INR"
+Cus024,Power,E-Commerce,Prod018,Cus024,Mark002,2019-05-21,1,338,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-05-21,13,28269,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-05-23,1,3065,"INR"
+Cus025,Path,E-Commerce,Prod018,Cus025,Mark002,2019-05-23,8,17495,"INR"
+Cus023,Sound,E-Commerce,Prod018,Cus023,Mark002,2019-05-23,3,7204,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-05-24,1,3065,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod018,Cus016,Mark002,2019-05-27,1,1046,"INR"
+Cus011,"Flawless Stores","Brick & Mortar",Prod018,Cus011,Mark003,2019-05-28,1,875,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod018,Cus016,Mark002,2019-05-28,10,21296,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-05-28,3,6125,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-05-29,1,3065,"INR"
+Cus025,Path,E-Commerce,Prod018,Cus025,Mark002,2019-05-29,2,3500,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-05-29,13,28269,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-05-30,1,3065,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod018,Cus016,Mark002,2019-05-31,1,1046,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-05-31,3,6125,"INR"
+Cus025,Path,E-Commerce,Prod018,Cus025,Mark002,2019-06-01,15,34986,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-06-03,1,3065,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-06-04,1,3065,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-06-05,1,3065,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-06-06,1,3065,"INR"
+Cus025,Path,E-Commerce,Prod018,Cus025,Mark002,2019-06-06,8,17495,"INR"
+Cus011,"Flawless Stores","Brick & Mortar",Prod018,Cus011,Mark003,2019-06-07,1,875,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod018,Cus016,Mark002,2019-06-07,1,1745,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-06-07,1,3065,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-06-07,13,28269,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod018,Cus016,Mark002,2019-06-10,1,2796,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-06-10,1,3065,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-06-11,1,3065,"INR"
+Cus024,Power,E-Commerce,Prod018,Cus024,Mark002,2019-06-11,1,338,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-06-12,3,6125,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-06-13,3,6125,"INR"
+Cus025,Path,E-Commerce,Prod018,Cus025,Mark002,2019-06-13,15,34986,"INR"
+Cus023,Sound,E-Commerce,Prod018,Cus023,Mark002,2019-06-13,7,14407,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod018,Cus016,Mark002,2019-06-14,13,27231,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-06-14,4,9190,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-06-17,1,3065,"INR"
+Cus023,Sound,E-Commerce,Prod018,Cus023,Mark002,2019-06-18,10,21606,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-06-19,4,9190,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-06-20,1,3065,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod018,Cus016,Mark002,2019-06-21,1,1046,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-06-21,4,9190,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-06-21,13,28269,"INR"
+Cus023,Sound,E-Commerce,Prod018,Cus023,Mark002,2019-06-21,3,7204,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod018,Cus016,Mark002,2019-06-24,9,17810,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-06-24,1,3065,"INR"
+Cus025,Path,E-Commerce,Prod018,Cus025,Mark002,2019-06-24,8,17495,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-06-25,12,27565,"INR"
+Cus024,Power,E-Commerce,Prod018,Cus024,Mark002,2019-06-25,1,338,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-06-26,1,3065,"INR"
+Cus025,Path,E-Commerce,Prod018,Cus025,Mark002,2019-06-27,8,17495,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod018,Cus016,Mark002,2019-06-28,2,3838,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-06-28,3,6125,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-06-28,13,28269,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod018,Cus016,Mark002,2019-07-01,134,280384,"INR"
+Cus024,Power,E-Commerce,Prod018,Cus024,Mark002,2019-07-01,1,338,"INR"
+Cus024,Power,E-Commerce,Prod018,Cus024,Mark002,2019-07-03,1,1356,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-07-03,13,28269,"INR"
+Cus025,Path,E-Commerce,Prod018,Cus025,Mark002,2019-07-04,15,34986,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-07-04,13,28269,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod018,Cus016,Mark002,2019-07-08,3,5588,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-07-08,1,3065,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-07-09,1,3065,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-07-11,3,6125,"INR"
+Cus025,Path,E-Commerce,Prod018,Cus025,Mark002,2019-07-11,15,34986,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod018,Cus016,Mark002,2019-07-12,25,53074,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-07-12,13,28269,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-07-15,1,3065,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-07-16,4,9190,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-07-16,27,56537,"INR"
+Cus024,Power,E-Commerce,Prod018,Cus024,Mark002,2019-07-17,1,338,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-07-18,3,6125,"INR"
+Cus025,Path,E-Commerce,Prod018,Cus025,Mark002,2019-07-18,8,17495,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-07-19,13,28269,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod018,Cus016,Mark002,2019-07-22,1,1046,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-07-24,1,3065,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-07-25,1,3065,"INR"
+Cus025,Path,E-Commerce,Prod018,Cus025,Mark002,2019-07-25,8,17495,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-07-25,13,28269,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod018,Cus016,Mark002,2019-07-26,19,39463,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-07-26,1,3065,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-07-26,13,28269,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-07-29,4,9190,"INR"
+Cus025,Path,E-Commerce,Prod018,Cus025,Mark002,2019-07-29,8,17495,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-07-30,3,6125,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-07-31,1,3065,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-08-01,3,6125,"INR"
+Cus025,Path,E-Commerce,Prod018,Cus025,Mark002,2019-08-01,4,10106,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-08-01,13,28269,"INR"
+Cus011,"Flawless Stores","Brick & Mortar",Prod018,Cus011,Mark003,2019-08-02,1,875,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod018,Cus016,Mark002,2019-08-02,8,16759,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-08-02,13,28269,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod018,Cus016,Mark002,2019-08-05,55,114532,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-08-05,3,6125,"INR"
+Cus025,Path,E-Commerce,Prod018,Cus025,Mark002,2019-08-05,8,17495,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-08-06,3,6125,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-08-06,13,28269,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-08-07,3,6125,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-08-08,4,9190,"INR"
+Cus025,Path,E-Commerce,Prod018,Cus025,Mark002,2019-08-08,15,34991,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-08-08,13,28269,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod018,Cus016,Mark002,2019-08-09,11,22556,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-08-09,4,9190,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod018,Cus016,Mark002,2019-08-12,9,17810,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-08-12,5,12250,"INR"
+Cus024,Power,E-Commerce,Prod018,Cus024,Mark002,2019-08-12,1,338,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-08-12,13,28269,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-08-13,1,3065,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-08-13,13,28269,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-08-14,4,9190,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-08-15,9,21440,"INR"
+Cus025,Path,E-Commerce,Prod018,Cus025,Mark002,2019-08-15,15,34986,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-08-15,13,28269,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod018,Cus016,Mark002,2019-08-16,25,52370,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-08-16,5,12250,"INR"
+Cus011,"Flawless Stores","Brick & Mortar",Prod018,Cus011,Mark003,2019-08-19,1,2620,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod018,Cus016,Mark002,2019-08-19,9,17810,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-08-19,27,56537,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-08-21,5,12250,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-08-22,4,9190,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod018,Cus016,Mark002,2019-08-23,95,198681,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod018,Cus016,Mark002,2019-08-26,8,16412,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-08-27,4,9190,"INR"
+Cus011,"Flawless Stores","Brick & Mortar",Prod018,Cus011,Mark003,2019-08-28,1,3491,"INR"
+Cus011,"Flawless Stores","Brick & Mortar",Prod018,Cus011,Mark003,2019-08-30,1,1745,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-08-30,5,12250,"INR"
+Cus025,Path,E-Commerce,Prod018,Cus025,Mark002,2019-08-30,15,34986,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-09-03,3,6125,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-09-04,13,28269,"INR"
+Cus025,Path,E-Commerce,Prod018,Cus025,Mark002,2019-09-05,45,104958,"INR"
+Cus011,"Flawless Stores","Brick & Mortar",Prod018,Cus011,Mark003,2019-09-06,1,1745,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod018,Cus016,Mark002,2019-09-06,14,28634,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-09-06,1,3065,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-09-09,1,3065,"INR"
+Cus024,Power,E-Commerce,Prod018,Cus024,Mark002,2019-09-09,1,338,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-09-10,3,6125,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-09-10,13,28269,"INR"
+Cus024,Power,E-Commerce,Prod018,Cus024,Mark002,2019-09-11,1,338,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-09-12,1,3065,"INR"
+Cus011,"Flawless Stores","Brick & Mortar",Prod018,Cus011,Mark003,2019-09-13,1,2620,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod018,Cus016,Mark002,2019-09-13,23,47838,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-09-13,3,6125,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-09-13,13,28269,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-09-16,1,3065,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-09-17,4,9190,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-09-19,4,9190,"INR"
+Cus025,Path,E-Commerce,Prod018,Cus025,Mark002,2019-09-19,15,34986,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod018,Cus016,Mark002,2019-09-20,23,47838,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-09-20,3,6125,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-09-20,13,28269,"INR"
+Cus025,Path,E-Commerce,Prod018,Cus025,Mark002,2019-09-23,8,17495,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-09-24,1,3065,"INR"
+Cus024,Power,E-Commerce,Prod018,Cus024,Mark002,2019-09-24,1,1356,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-09-24,13,28269,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-09-25,1,3065,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod018,Cus016,Mark002,2019-09-27,23,47838,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-09-27,4,9190,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-09-27,13,28269,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-09-30,1,3065,"INR"
+Cus024,Power,E-Commerce,Prod018,Cus024,Mark002,2019-09-30,1,338,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-10-01,1,3065,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-10-01,13,28269,"INR"
+Cus011,"Flawless Stores","Brick & Mortar",Prod018,Cus011,Mark003,2019-10-02,1,875,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-10-02,3,6125,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-10-03,4,9190,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod018,Cus016,Mark002,2019-10-04,9,19208,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-10-04,4,9190,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-10-04,13,28269,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-10-07,13,28269,"INR"
+Cus011,"Flawless Stores","Brick & Mortar",Prod018,Cus011,Mark003,2019-10-08,1,2620,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-10-08,7,15315,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-10-09,1,3065,"INR"
+Cus025,Path,E-Commerce,Prod018,Cus025,Mark002,2019-10-10,8,17495,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-10-10,13,28269,"INR"
+Cus011,"Flawless Stores","Brick & Mortar",Prod018,Cus011,Mark003,2019-10-11,1,875,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod018,Cus016,Mark002,2019-10-11,2,3491,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-10-11,3,6125,"INR"
+Cus011,"Flawless Stores","Brick & Mortar",Prod018,Cus011,Mark003,2019-10-14,2,4366,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-10-15,5,12250,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-10-16,4,9190,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-10-16,13,28269,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod018,Cus016,Mark002,2019-10-18,7,13620,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-10-18,27,56537,"INR"
+Cus011,"Flawless Stores","Brick & Mortar",Prod018,Cus011,Mark003,2019-10-21,3,6986,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-10-21,7,15315,"INR"
+Cus011,"Flawless Stores","Brick & Mortar",Prod018,Cus011,Mark003,2019-10-22,1,875,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-10-22,5,12250,"INR"
+Cus024,Power,E-Commerce,Prod018,Cus024,Mark002,2019-10-22,1,338,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-10-22,13,28269,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-10-24,7,15315,"INR"
+Cus025,Path,E-Commerce,Prod018,Cus025,Mark002,2019-10-24,8,17495,"INR"
+Cus011,"Flawless Stores","Brick & Mortar",Prod018,Cus011,Mark003,2019-10-25,24,62847,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod018,Cus016,Mark002,2019-10-25,254,532491,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-10-25,1,3065,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-10-25,13,28269,"INR"
+Cus024,Power,E-Commerce,Prod018,Cus024,Mark002,2019-10-28,1,338,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-10-31,3,6125,"INR"
+Cus025,Path,E-Commerce,Prod018,Cus025,Mark002,2019-10-31,8,17495,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-10-31,27,56537,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-11-01,3,6125,"INR"
+Cus011,"Flawless Stores","Brick & Mortar",Prod018,Cus011,Mark003,2019-11-04,1,2620,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-11-04,1,3065,"INR"
+Cus024,Power,E-Commerce,Prod018,Cus024,Mark002,2019-11-04,1,338,"INR"
+Cus011,"Flawless Stores","Brick & Mortar",Prod018,Cus011,Mark003,2019-11-05,3,7856,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-11-05,1,3065,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-11-05,13,28269,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-11-06,1,3065,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod018,Cus016,Mark002,2019-11-07,78,163769,"INR"
+Cus025,Path,E-Commerce,Prod018,Cus025,Mark002,2019-11-07,4,9718,"INR"
+Cus011,"Flawless Stores","Brick & Mortar",Prod018,Cus011,Mark003,2019-11-08,5,13097,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-11-08,4,9190,"INR"
+Cus024,Power,E-Commerce,Prod018,Cus024,Mark002,2019-11-11,1,2037,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-11-14,1,3065,"INR"
+Cus025,Path,E-Commerce,Prod018,Cus025,Mark002,2019-11-14,15,34986,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod018,Cus016,Mark002,2019-11-15,19,39458,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-11-15,5,12250,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-11-15,13,28269,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-11-18,1,3065,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-11-19,1,3065,"INR"
+Cus011,"Flawless Stores","Brick & Mortar",Prod018,Cus011,Mark003,2019-11-21,11,29681,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-11-21,3,6125,"INR"
+Cus025,Path,E-Commerce,Prod018,Cus025,Mark002,2019-11-21,8,17495,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod018,Cus016,Mark002,2019-11-22,47,98472,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-11-25,1,3065,"INR"
+Cus011,"Flawless Stores","Brick & Mortar",Prod018,Cus011,Mark003,2019-11-26,7,19204,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-11-26,13,28269,"INR"
+Cus011,"Flawless Stores","Brick & Mortar",Prod018,Cus011,Mark003,2019-11-27,1,2620,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-11-27,1,3065,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-11-28,3,6125,"INR"
+Cus025,Path,E-Commerce,Prod018,Cus025,Mark002,2019-11-28,8,17495,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod018,Cus016,Mark002,2019-11-29,44,91134,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-11-29,3,6125,"INR"
+Cus011,"Flawless Stores","Brick & Mortar",Prod018,Cus011,Mark003,2019-12-02,2,6111,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-12-02,1,3065,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-12-03,3,6125,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-12-03,13,28269,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-12-05,3,6130,"INR"
+Cus025,Path,E-Commerce,Prod018,Cus025,Mark002,2019-12-05,8,17495,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod018,Cus016,Mark002,2019-12-06,49,103005,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-12-08,1,3065,"INR"
+Cus011,"Flawless Stores","Brick & Mortar",Prod018,Cus011,Mark003,2019-12-09,2,5236,"INR"
+Cus025,Path,E-Commerce,Prod018,Cus025,Mark002,2019-12-09,8,17495,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-12-10,3,6125,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-12-10,13,28269,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-12-12,1,3065,"INR"
+Cus025,Path,E-Commerce,Prod018,Cus025,Mark002,2019-12-12,8,17495,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-12-13,13,28269,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-12-16,5,12250,"INR"
+Cus025,Path,E-Commerce,Prod018,Cus025,Mark002,2019-12-16,8,17495,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-12-17,13,28269,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-12-19,4,9190,"INR"
+Cus025,Path,E-Commerce,Prod018,Cus025,Mark002,2019-12-19,8,17495,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-12-19,67,141343,"INR"
+Cus024,Power,E-Commerce,Prod018,Cus024,Mark002,2019-12-20,1,1356,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-12-23,3,6125,"INR"
+Cus025,Path,E-Commerce,Prod018,Cus025,Mark002,2019-12-23,15,34986,"INR"
+Cus026,Insight,E-Commerce,Prod018,Cus026,Mark008,2019-12-24,47,92167,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2019-12-24,12,27565,"INR"
+Cus025,Path,E-Commerce,Prod018,Cus025,Mark002,2020-01-02,5,10495,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2020-01-07,4,9190,"INR"
+Cus024,Power,E-Commerce,Prod018,Cus024,Mark002,2020-01-07,1,338,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2020-01-07,27,56537,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2020-01-08,3,6125,"INR"
+Cus025,Path,E-Commerce,Prod018,Cus025,Mark002,2020-01-08,14,31486,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2020-01-09,5,12250,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2020-01-10,3,6125,"INR"
+Cus024,Power,E-Commerce,Prod018,Cus024,Mark002,2020-01-14,1,1019,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2020-01-14,13,28269,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2020-01-16,4,9190,"INR"
+Cus025,Path,E-Commerce,Prod018,Cus025,Mark002,2020-01-16,15,34986,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2020-01-16,27,56537,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod018,Cus016,Mark002,2020-01-17,1,2097,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2020-01-17,7,15315,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2020-01-20,1,3065,"INR"
+Cus024,Power,E-Commerce,Prod018,Cus024,Mark002,2020-01-21,1,338,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2020-01-22,3,6125,"INR"
+Cus025,Path,E-Commerce,Prod018,Cus025,Mark002,2020-01-23,8,17495,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2020-01-24,1,3065,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2020-01-24,13,28269,"INR"
+Cus025,Path,E-Commerce,Prod018,Cus025,Mark002,2020-01-27,8,17495,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2020-01-28,1,3065,"INR"
+Cus026,Insight,E-Commerce,Prod018,Cus026,Mark008,2020-01-30,10,19750,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2020-01-30,1,3065,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2020-01-30,13,28269,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2020-02-03,1,3065,"INR"
+Cus025,Path,E-Commerce,Prod018,Cus025,Mark002,2020-02-03,11,24491,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2020-02-04,1,3065,"INR"
+Cus011,"Flawless Stores","Brick & Mortar",Prod018,Cus011,Mark003,2020-02-07,2,5236,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod018,Cus016,Mark002,2020-02-07,3,5935,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2020-02-07,1,3065,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2020-02-07,13,28269,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2020-02-10,1,3065,"INR"
+Cus025,Path,E-Commerce,Prod018,Cus025,Mark002,2020-02-10,8,17495,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2020-02-11,1,3065,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2020-02-13,1,3065,"INR"
+Cus025,Path,E-Commerce,Prod018,Cus025,Mark002,2020-02-13,11,24491,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod018,Cus016,Mark002,2020-02-14,4,7685,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2020-02-14,1,3065,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2020-02-17,1,3065,"INR"
+Cus024,Power,E-Commerce,Prod018,Cus024,Mark002,2020-02-18,1,1356,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2020-02-21,1,3065,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2020-02-24,1,3065,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2020-02-25,4,9190,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2020-02-26,1,3065,"INR"
+Cus025,Path,E-Commerce,Prod018,Cus025,Mark002,2020-02-27,3,6995,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2020-02-27,13,28269,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2020-02-28,1,3065,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2020-03-02,1,3065,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2020-03-03,1,3065,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2020-03-04,1,3065,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2020-03-05,1,3065,"INR"
+Cus025,Path,E-Commerce,Prod018,Cus025,Mark002,2020-03-05,8,17495,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2020-03-06,3,6125,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2020-03-06,13,28269,"INR"
+Cus011,"Flawless Stores","Brick & Mortar",Prod018,Cus011,Mark003,2020-03-09,3,7856,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2020-03-09,3,6125,"INR"
+Cus024,Power,E-Commerce,Prod018,Cus024,Mark002,2020-03-09,1,338,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2020-03-10,1,3065,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2020-03-10,13,28269,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2020-03-11,3,6125,"INR"
+Cus025,Path,E-Commerce,Prod018,Cus025,Mark002,2020-03-12,8,17495,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2020-03-12,13,28269,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod018,Cus016,Mark002,2020-03-13,2,4190,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2020-03-13,4,9190,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2020-03-16,1,3065,"INR"
+Cus024,Power,E-Commerce,Prod018,Cus024,Mark002,2020-03-16,1,338,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2020-03-17,7,15315,"INR"
+Cus024,Power,E-Commerce,Prod018,Cus024,Mark002,2020-03-17,1,1356,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2020-03-17,13,28269,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2020-03-19,7,15315,"INR"
+Cus025,Path,E-Commerce,Prod018,Cus025,Mark002,2020-03-23,8,17495,"INR"
+Cus024,Power,E-Commerce,Prod018,Cus024,Mark002,2020-03-23,1,338,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2020-03-24,13,28269,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod018,Cus016,Mark002,2020-03-27,1,699,"INR"
+Cus024,Power,E-Commerce,Prod018,Cus024,Mark002,2020-03-30,1,338,"INR"
+Cus025,Path,E-Commerce,Prod018,Cus025,Mark002,2020-04-02,8,17495,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod018,Cus016,Mark002,2020-04-07,88,184366,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2020-04-09,7,15315,"INR"
+Cus011,"Flawless Stores","Brick & Mortar",Prod018,Cus011,Mark003,2020-04-16,1,1745,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod018,Cus016,Mark002,2020-04-16,4,7681,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2020-04-16,7,15315,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod018,Cus016,Mark002,2020-04-17,5,11171,"INR"
+Cus024,Power,E-Commerce,Prod018,Cus024,Mark002,2020-04-20,1,338,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2020-04-20,13,28269,"INR"
+Cus025,Path,E-Commerce,Prod018,Cus025,Mark002,2020-04-21,8,17495,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod018,Cus016,Mark002,2020-04-22,23,48880,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2020-04-22,13,30625,"INR"
+Cus024,Power,E-Commerce,Prod018,Cus024,Mark002,2020-04-27,1,681,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod018,Cus016,Mark002,2020-04-28,14,28282,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2020-04-30,7,15315,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2020-04-30,13,28269,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2020-05-01,7,15315,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod018,Cus016,Mark002,2020-05-05,33,68796,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2020-05-05,13,30625,"INR"
+Cus024,Power,E-Commerce,Prod018,Cus024,Mark002,2020-05-05,1,338,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2020-05-06,7,15315,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod018,Cus016,Mark002,2020-05-08,128,268505,"INR"
+Cus025,Path,E-Commerce,Prod018,Cus025,Mark002,2020-05-12,8,17495,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2020-05-12,13,28269,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod018,Cus016,Mark002,2020-05-14,11,22343,"INR"
+Cus025,Path,E-Commerce,Prod018,Cus025,Mark002,2020-05-18,7,15551,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2020-05-18,13,28269,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod018,Cus016,Mark002,2020-05-21,34,71231,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod018,Cus016,Mark002,2020-05-22,5,9426,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2020-05-26,7,15315,"INR"
+Cus024,Power,E-Commerce,Prod018,Cus024,Mark002,2020-05-26,1,1356,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2020-05-27,13,30625,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2020-05-27,13,28269,"INR"
+Cus025,Path,E-Commerce,Prod018,Cus025,Mark002,2020-05-29,8,17495,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod018,Cus016,Mark002,2020-05-30,62,129889,"INR"
+Cus011,"Flawless Stores","Brick & Mortar",Prod018,Cus011,Mark003,2020-06-02,1,875,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod018,Cus016,Mark002,2020-06-02,5,10829,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2020-06-02,13,28269,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod018,Cus016,Mark002,2020-06-03,3,6287,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2020-06-03,27,61255,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod018,Cus016,Mark002,2020-06-04,15,31421,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2020-06-04,13,30625,"INR"
+Cus025,Path,E-Commerce,Prod018,Cus025,Mark002,2020-06-04,15,34986,"INR"
+Cus022,Electricalslytical,E-Commerce,Prod018,Cus022,Mark002,2020-06-04,13,28269,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod018,Cus016,Mark002,2020-06-05,15,31079,"INR"
+Cus011,"Flawless Stores","Brick & Mortar",Prod018,Cus011,Mark003,2020-06-08,1,875,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod018,Cus016,Mark002,2020-06-08,11,21995,"INR"
+Cus024,Power,E-Commerce,Prod018,Cus024,Mark002,2020-06-08,1,338,"INR"
+Cus025,Path,E-Commerce,Prod018,Cus025,Mark002,2020-06-11,8,17495,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod018,Cus016,Mark002,2020-06-12,34,70181,"INR"
+Cus025,Path,E-Commerce,Prod018,Cus025,Mark002,2020-06-15,8,17495,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod019,Cus007,Mark004,2017-10-09,1,1606,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod019,Cus007,Mark004,2017-10-11,1,269,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod019,Cus007,Mark004,2017-10-12,1,269,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod019,Cus007,Mark004,2017-10-13,3,4014,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod019,Cus007,Mark004,2017-10-16,1,269,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod019,Cus007,Mark004,2017-10-19,1,1069,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod019,Cus007,Mark004,2017-10-20,2,3481,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod019,Cus007,Mark004,2017-10-25,1,801,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod019,Cus007,Mark004,2017-10-27,2,2944,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod019,Cus007,Mark004,2017-11-03,2,3481,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod019,Cus007,Mark004,2017-11-06,4,5361,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod019,Cus007,Mark004,2017-11-10,2,3417,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod019,Cus007,Mark004,2017-11-16,1,736,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod019,Cus007,Mark004,2017-11-17,1,977,"INR"
+Cus005,"Premium Stores","Brick & Mortar",Prod019,Cus005,Mark004,2017-11-22,3,3153,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod019,Cus007,Mark004,2017-11-24,2,3176,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod019,Cus007,Mark004,2017-11-27,1,977,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod019,Cus007,Mark004,2017-12-05,1,486,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod019,Cus007,Mark004,2017-12-11,2,2194,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod019,Cus007,Mark004,2017-12-15,1,245,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod019,Cus007,Mark004,2017-12-18,2,3412,"INR"
+Cus005,"Premium Stores","Brick & Mortar",Prod019,Cus005,Mark004,2017-12-19,1,315,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod019,Cus007,Mark004,2017-12-22,1,731,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod019,Cus007,Mark004,2017-12-27,4,5116,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod019,Cus007,Mark004,2017-12-28,1,486,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod019,Cus007,Mark004,2018-01-02,3,4389,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod019,Cus007,Mark004,2018-01-03,8,11704,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod019,Cus007,Mark004,2018-01-05,1,1708,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod019,Cus007,Mark004,2018-01-08,6,8287,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod019,Cus007,Mark004,2018-01-16,1,245,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod019,Cus007,Mark004,2018-01-30,1,245,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod019,Cus007,Mark004,2018-02-02,1,486,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod019,Cus007,Mark004,2018-02-05,2,2440,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod019,Cus007,Mark004,2018-02-12,1,486,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod019,Cus007,Mark004,2018-02-16,1,1708,"INR"
+Cus005,"Premium Stores","Brick & Mortar",Prod019,Cus005,Mark004,2018-02-19,1,157,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod019,Cus007,Mark004,2018-02-19,2,2194,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod019,Cus007,Mark004,2018-02-21,33,15278,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod019,Cus007,Mark004,2018-02-22,1,245,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod019,Cus007,Mark004,2018-02-23,1,1468,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod019,Cus007,Mark004,2018-02-26,4,5606,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod019,Cus007,Mark004,2018-03-02,1,1218,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod019,Cus007,Mark004,2018-03-05,3,3653,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod019,Cus007,Mark004,2018-03-09,2,3171,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod019,Cus007,Mark004,2018-03-12,6,8532,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod019,Cus007,Mark004,2018-03-19,1,731,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod019,Cus007,Mark004,2018-03-23,1,731,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod019,Cus007,Mark004,2018-03-27,6,8287,"INR"
+Cus001,"Surge Stores","Brick & Mortar",Prod020,Cus001,Mark001,2017-10-10,140,153019,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod020,Cus007,Mark004,2017-10-16,1,815,"INR"
+Cus001,"Surge Stores","Brick & Mortar",Prod020,Cus001,Mark001,2017-10-25,47,51005,"INR"
+Cus001,"Surge Stores","Brick & Mortar",Prod020,Cus001,Mark001,2017-11-14,47,51005,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod020,Cus007,Mark004,2018-02-08,31,22148,"INR"
+Cus010,"Atlas Stores","Brick & Mortar",Prod021,Cus010,Mark003,2017-10-04,4,9032,"INR"
+Cus012,"Integration Stores","Brick & Mortar",Prod021,Cus012,Mark003,2017-10-05,5,13199,"INR"
+Cus010,"Atlas Stores","Brick & Mortar",Prod021,Cus010,Mark003,2017-10-05,1,1644,"INR"
+Cus027,Control,E-Commerce,Prod021,Cus027,Mark003,2017-10-05,13,42954,"INR"
+Cus010,"Atlas Stores","Brick & Mortar",Prod021,Cus010,Mark003,2017-10-06,1,3287,"INR"
+Cus027,Control,E-Commerce,Prod021,Cus027,Mark003,2017-10-06,13,41880,"INR"
+Cus011,"Flawless Stores","Brick & Mortar",Prod021,Cus011,Mark003,2017-10-06,3,8713,"INR"
+Cus003,"Excel Stores","Brick & Mortar",Prod021,Cus003,Mark003,2017-10-06,13,30528,"INR"
+Cus003,"Excel Stores","Brick & Mortar",Prod021,Cus003,Mark006,2017-10-10,1,0,"INR"
+Cus010,"Atlas Stores","Brick & Mortar",Prod021,Cus010,Mark003,2017-10-11,3,8213,"INR"
+Cus027,Control,E-Commerce,Prod021,Cus027,Mark003,2017-10-11,3,10736,"INR"
+Cus003,"Excel Stores","Brick & Mortar",Prod021,Cus003,Mark003,2017-10-11,1,764,"INR"
+Cus012,"Integration Stores","Brick & Mortar",Prod021,Cus012,Mark003,2017-10-12,1,3519,"INR"
+Cus027,Control,E-Commerce,Prod021,Cus027,Mark003,2017-10-12,13,42954,"INR"
+Cus003,"Excel Stores","Brick & Mortar",Prod021,Cus003,Mark003,2017-10-12,1,1528,"INR"
+Cus010,"Atlas Stores","Brick & Mortar",Prod021,Cus010,Mark003,2017-10-13,1,819,"INR"
+Cus027,Control,E-Commerce,Prod021,Cus027,Mark003,2017-10-13,7,21477,"INR"
+Cus011,"Flawless Stores","Brick & Mortar",Prod021,Cus011,Mark003,2017-10-13,1,4356,"INR"
+Cus003,"Excel Stores","Brick & Mortar",Prod021,Cus003,Mark003,2017-10-13,2,4583,"INR"
+Cus027,Control,E-Commerce,Prod021,Cus027,Mark006,2017-10-16,1,0,"INR"
+Cus010,"Atlas Stores","Brick & Mortar",Prod021,Cus010,Mark003,2017-10-16,1,2463,"INR"
+Cus027,Control,E-Commerce,Prod021,Cus027,Mark003,2017-10-16,3,10736,"INR"
+Cus003,"Excel Stores","Brick & Mortar",Prod021,Cus003,Mark003,2017-10-16,1,764,"INR"
+Cus027,Control,E-Commerce,Prod021,Cus027,Mark003,2017-10-17,13,42954,"INR"
+Cus003,"Excel Stores","Brick & Mortar",Prod021,Cus003,Mark006,2017-10-18,1,0,"INR"
+Cus010,"Atlas Stores","Brick & Mortar",Prod021,Cus010,Mark003,2017-10-18,2,4926,"INR"
+Cus003,"Excel Stores","Brick & Mortar",Prod021,Cus003,Mark006,2017-10-19,1,0,"INR"
+Cus012,"Integration Stores","Brick & Mortar",Prod021,Cus012,Mark003,2017-10-19,3,8801,"INR"
+Cus010,"Atlas Stores","Brick & Mortar",Prod021,Cus010,Mark003,2017-10-19,1,3282,"INR"
+Cus003,"Excel Stores","Brick & Mortar",Prod021,Cus003,Mark003,2017-10-19,1,1528,"INR"
+Cus010,"Atlas Stores","Brick & Mortar",Prod021,Cus010,Mark003,2017-10-20,1,819,"INR"
+Cus011,"Flawless Stores","Brick & Mortar",Prod021,Cus011,Mark003,2017-10-20,3,10889,"INR"
+Cus003,"Excel Stores","Brick & Mortar",Prod021,Cus003,Mark003,2017-10-20,1,2292,"INR"
+Cus003,"Excel Stores","Brick & Mortar",Prod021,Cus003,Mark003,2017-10-23,1,764,"INR"
+Cus010,"Atlas Stores","Brick & Mortar",Prod021,Cus010,Mark003,2017-10-25,2,5750,"INR"
+Cus012,"Integration Stores","Brick & Mortar",Prod021,Cus012,Mark003,2017-10-26,2,5278,"INR"
+Cus010,"Atlas Stores","Brick & Mortar",Prod021,Cus010,Mark003,2017-10-26,1,819,"INR"
+Cus027,Control,E-Commerce,Prod021,Cus027,Mark003,2017-10-26,7,21477,"INR"
+Cus010,"Atlas Stores","Brick & Mortar",Prod021,Cus010,Mark003,2017-10-27,1,1644,"INR"
+Cus011,"Flawless Stores","Brick & Mortar",Prod021,Cus011,Mark003,2017-10-27,2,5444,"INR"
+Cus003,"Excel Stores","Brick & Mortar",Prod021,Cus003,Mark003,2017-10-27,1,2292,"INR"
+Cus010,"Atlas Stores","Brick & Mortar",Prod021,Cus010,Mark003,2017-10-31,1,2463,"INR"
+Cus012,"Integration Stores","Brick & Mortar",Prod021,Cus012,Mark003,2017-11-02,3,7921,"INR"
+Cus010,"Atlas Stores","Brick & Mortar",Prod021,Cus010,Mark003,2017-11-02,1,819,"INR"
+Cus003,"Excel Stores","Brick & Mortar",Prod021,Cus003,Mark003,2017-11-02,1,1528,"INR"
+Cus010,"Atlas Stores","Brick & Mortar",Prod021,Cus010,Mark003,2017-11-03,1,819,"INR"
+Cus003,"Excel Stores","Brick & Mortar",Prod021,Cus003,Mark003,2017-11-03,14,32819,"INR"
+Cus010,"Atlas Stores","Brick & Mortar",Prod021,Cus010,Mark003,2017-11-06,1,1644,"INR"
+Cus004,"Surface Stores","Brick & Mortar",Prod021,Cus004,Mark003,2017-11-06,3,10736,"INR"
+Cus011,"Flawless Stores","Brick & Mortar",Prod021,Cus011,Mark003,2017-11-07,3,8708,"INR"
+Cus010,"Atlas Stores","Brick & Mortar",Prod021,Cus010,Mark003,2017-11-09,1,819,"INR"
+Cus003,"Excel Stores","Brick & Mortar",Prod021,Cus003,Mark003,2017-11-09,1,764,"INR"
+Cus003,"Excel Stores","Brick & Mortar",Prod021,Cus003,Mark003,2017-11-10,1,2292,"INR"
+Cus003,"Excel Stores","Brick & Mortar",Prod021,Cus003,Mark003,2017-11-14,1,764,"INR"
+Cus012,"Integration Stores","Brick & Mortar",Prod021,Cus012,Mark003,2018-01-02,1,880,"INR"
+Cus003,"Excel Stores","Brick & Mortar",Prod021,Cus003,Mark003,2018-02-12,2,3435,"INR"
+Cus028,Sage,E-Commerce,Prod021,Cus028,Mark003,2018-11-26,12,17319,"INR"
+Cus029,Electricalsocity,E-Commerce,Prod022,Cus029,Mark002,2018-10-01,30,52097,"INR"
+Cus025,Path,E-Commerce,Prod022,Cus025,Mark002,2019-11-07,3,4069,"INR"
+Cus003,"Excel Stores","Brick & Mortar",Prod023,Cus003,Mark003,2018-04-19,1,671,"INR"
+Cus004,"Surface Stores","Brick & Mortar",Prod023,Cus004,Mark003,2018-04-19,3,9148,"INR"
+Cus003,"Excel Stores","Brick & Mortar",Prod023,Cus003,Mark003,2018-04-20,1,2009,"INR"
+Cus003,"Excel Stores","Brick & Mortar",Prod023,Cus003,Mark003,2018-04-23,1,1343,"INR"
+Cus003,"Excel Stores","Brick & Mortar",Prod023,Cus003,Mark003,2018-04-25,2,4028,"INR"
+Cus003,"Excel Stores","Brick & Mortar",Prod023,Cus003,Mark003,2018-04-26,7,13407,"INR"
+Cus013,"Unity Stores","Brick & Mortar",Prod023,Cus013,Mark003,2018-04-27,1,2940,"INR"
+Cus023,Sound,E-Commerce,Prod023,Cus023,Mark002,2018-06-11,2,2208,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod024,Cus016,Mark002,2017-10-05,1,1514,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod024,Cus016,Mark002,2017-10-06,14,21218,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod024,Cus016,Mark002,2017-10-12,2,3032,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod024,Cus016,Mark002,2017-10-13,10,14648,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod024,Cus016,Mark002,2017-10-19,1,1009,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod024,Cus016,Mark002,2017-10-20,24,36880,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod024,Cus016,Mark002,2017-10-26,3,5056,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod024,Cus016,Mark002,2017-10-27,58,87907,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod024,Cus016,Mark002,2017-11-03,45,68208,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod024,Cus016,Mark002,2017-11-10,1,2023,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod024,Cus007,Mark004,2017-11-17,1,736,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod024,Cus016,Mark002,2017-11-17,1,505,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod024,Cus016,Mark002,2017-11-24,8,11620,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod024,Cus016,Mark002,2017-12-01,46,70227,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod024,Cus016,Mark002,2017-12-08,13,20208,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod024,Cus016,Mark002,2017-12-15,13,20208,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod024,Cus007,Mark004,2017-12-19,1,736,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod024,Cus016,Mark002,2017-12-22,25,38398,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod024,Cus016,Mark002,2018-01-02,2,4190,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod024,Cus016,Mark002,2018-01-05,38,67648,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod024,Cus007,Mark004,2018-01-09,9,20574,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod024,Cus007,Mark004,2018-01-10,16,36005,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod024,Cus016,Mark002,2018-01-12,32,58069,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod024,Cus007,Mark004,2018-01-16,1,736,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod024,Cus007,Mark004,2018-01-17,1,736,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod024,Cus016,Mark002,2018-01-19,36,64056,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod024,Cus016,Mark002,2018-01-26,56,100574,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod024,Cus016,Mark002,2018-02-01,1,1199,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod024,Cus007,Mark004,2018-02-02,1,736,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod024,Cus016,Mark002,2018-02-02,25,44907,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod024,Cus007,Mark004,2018-02-07,44,96991,"INR"
+Cus011,"Flawless Stores","Brick & Mortar",Prod024,Cus011,Mark006,2018-03-05,5,11264,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod024,Cus007,Mark004,2018-03-05,9,19102,"INR"
+Cus011,"Flawless Stores","Brick & Mortar",Prod024,Cus011,Mark006,2018-03-12,132,279486,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod024,Cus007,Mark004,2018-03-12,25,54375,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod024,Cus007,Mark004,2018-03-19,1,736,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod024,Cus007,Mark004,2018-03-21,39,86713,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod024,Cus007,Mark004,2018-03-22,44,96995,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod024,Cus007,Mark004,2018-03-23,23,50699,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod024,Cus007,Mark004,2018-03-26,23,50704,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod024,Cus007,Mark004,2018-03-27,3,5875,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod024,Cus007,Mark004,2018-04-03,1,1468,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod024,Cus007,Mark004,2018-04-09,11,23519,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod024,Cus007,Mark004,2018-04-13,10,22778,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod024,Cus007,Mark004,2018-04-16,12,25718,"INR"
+Cus017,"Epic Stores","Brick & Mortar",Prod024,Cus017,Mark007,2018-04-17,17,16667,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod024,Cus007,Mark004,2018-04-20,11,23514,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod024,Cus007,Mark004,2018-04-23,10,21310,"INR"
+Cus017,"Epic Stores","Brick & Mortar",Prod024,Cus017,Mark007,2018-04-24,75,75000,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod024,Cus007,Mark004,2018-04-26,8,18370,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod024,Cus007,Mark004,2018-04-27,12,25713,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod024,Cus007,Mark004,2018-05-04,2,4407,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod024,Cus007,Mark004,2018-05-07,9,20574,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod024,Cus007,Mark004,2018-05-08,5,11759,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod024,Cus007,Mark004,2018-05-09,1,1468,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod024,Cus007,Mark004,2018-05-14,2,3676,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod024,Cus007,Mark004,2018-05-15,4,8819,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod024,Cus007,Mark004,2018-05-18,7,18921,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod024,Cus007,Mark004,2018-05-22,10,26130,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod024,Cus007,Mark004,2018-05-28,16,42347,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod024,Cus007,Mark004,2018-06-04,16,43245,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod024,Cus007,Mark004,2018-06-12,16,43245,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod024,Cus007,Mark004,2018-06-13,12,33338,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod024,Cus007,Mark004,2018-06-14,71,191912,"INR"
+Cus017,"Epic Stores","Brick & Mortar",Prod024,Cus017,Mark007,2018-06-15,23,23333,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod024,Cus007,Mark004,2018-06-22,75,202722,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod024,Cus007,Mark004,2018-07-02,70,188301,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod024,Cus007,Mark004,2018-07-09,24,65769,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod024,Cus007,Mark004,2018-07-20,14,37843,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod024,Cus007,Mark004,2018-07-21,4,10810,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod024,Cus007,Mark004,2018-07-27,6,16218,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod024,Cus007,Mark004,2018-07-30,4,11713,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod024,Cus007,Mark004,2018-08-21,28,75671,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod024,Cus007,Mark004,2018-08-23,12,32435,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod024,Cus007,Mark004,2018-08-29,5,13514,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod024,Cus007,Mark004,2018-09-04,6,15315,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod024,Cus007,Mark004,2018-09-05,20,54056,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod024,Cus007,Mark004,2018-09-07,20,54056,"INR"
+Cus011,"Flawless Stores","Brick & Mortar",Prod024,Cus011,Mark003,2018-09-24,1,2111,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod024,Cus007,Mark004,2018-09-25,3,8106,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod024,Cus007,Mark004,2018-09-27,3,9009,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod024,Cus007,Mark004,2018-10-12,66,179273,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod024,Cus007,Mark004,2018-10-15,12,31532,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod024,Cus007,Mark004,2018-10-16,7,18917,"INR"
+Cus017,"Epic Stores","Brick & Mortar",Prod024,Cus017,Mark007,2018-10-16,29,29000,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod024,Cus007,Mark004,2018-10-17,40,108097,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod024,Cus007,Mark004,2018-10-25,5,12611,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod024,Cus007,Mark004,2018-10-26,17,45042,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod024,Cus007,Mark004,2018-11-05,101,272968,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod024,Cus007,Mark004,2018-11-06,31,84681,"INR"
+Cus011,"Flawless Stores","Brick & Mortar",Prod024,Cus011,Mark003,2018-11-07,14,28866,"INR"
+Cus011,"Flawless Stores","Brick & Mortar",Prod024,Cus011,Mark003,2018-11-08,63,132352,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod024,Cus007,Mark004,2018-11-09,7,18921,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod024,Cus007,Mark004,2018-11-12,30,80176,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod024,Cus007,Mark004,2018-11-14,20,54056,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod024,Cus007,Mark004,2018-11-16,8,21620,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod024,Cus007,Mark004,2018-11-19,5,14412,"INR"
+Cus017,"Epic Stores","Brick & Mortar",Prod024,Cus017,Mark007,2018-11-26,40,40000,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod024,Cus007,Mark004,2018-11-28,18,49546,"INR"
+Cus017,"Epic Stores","Brick & Mortar",Prod024,Cus017,Mark007,2018-12-26,44,44333,"INR"
+Cus017,"Epic Stores","Brick & Mortar",Prod024,Cus017,Mark007,2019-01-15,36,35667,"INR"
+Cus017,"Epic Stores","Brick & Mortar",Prod024,Cus017,Mark007,2019-01-30,128,128000,"INR"
+Cus011,"Flawless Stores","Brick & Mortar",Prod024,Cus011,Mark003,2019-02-14,2,4222,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod024,Cus007,Mark004,2019-02-22,7,18019,"INR"
+Cus011,"Flawless Stores","Brick & Mortar",Prod024,Cus011,Mark003,2019-02-25,1,704,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod024,Cus007,Mark004,2019-02-25,3,9009,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod024,Cus007,Mark004,2019-03-01,13,36037,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod024,Cus007,Mark004,2019-03-04,3,7208,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod024,Cus007,Mark004,2019-03-08,9,24324,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod024,Cus007,Mark004,2019-03-15,11,29731,"INR"
+Cus017,"Epic Stores","Brick & Mortar",Prod024,Cus017,Mark007,2019-03-15,40,40000,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod024,Cus007,Mark004,2019-03-22,11,30634,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod024,Cus007,Mark004,2019-03-29,52,140546,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod024,Cus007,Mark004,2019-04-05,1,3602,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod024,Cus007,Mark004,2019-04-12,36,96398,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod024,Cus007,Mark004,2019-04-23,17,46847,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod024,Cus007,Mark004,2019-04-29,19,50454,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod024,Cus007,Mark004,2019-05-06,8,22523,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod024,Cus007,Mark004,2019-05-10,13,35134,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod024,Cus007,Mark004,2019-05-17,3,8106,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod024,Cus007,Mark004,2019-05-24,17,45949,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod024,Cus007,Mark004,2019-06-03,3,9009,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod024,Cus007,Mark004,2019-06-07,4,9912,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod024,Cus007,Mark004,2019-06-17,18,49551,"INR"
+Cus017,"Epic Stores","Brick & Mortar",Prod024,Cus017,Mark007,2019-06-18,95,95333,"INR"
+Cus011,"Flawless Stores","Brick & Mortar",Prod024,Cus011,Mark003,2019-06-21,3,6241,"INR"
+Cus011,"Flawless Stores","Brick & Mortar",Prod024,Cus011,Mark003,2019-06-28,1,694,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod024,Cus007,Mark004,2019-06-28,81,218926,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod024,Cus007,Mark004,2019-07-01,227,613532,"INR"
+Cus011,"Flawless Stores","Brick & Mortar",Prod024,Cus011,Mark003,2019-07-08,73,151838,"INR"
+Cus011,"Flawless Stores","Brick & Mortar",Prod024,Cus011,Mark003,2019-07-12,66,136588,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod024,Cus007,Mark004,2019-07-12,38,102704,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod024,Cus007,Mark004,2019-07-19,41,110819,"INR"
+Cus011,"Flawless Stores","Brick & Mortar",Prod024,Cus011,Mark003,2019-07-23,47,97759,"INR"
+Cus011,"Flawless Stores","Brick & Mortar",Prod024,Cus011,Mark003,2019-07-26,5,9708,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod024,Cus007,Mark004,2019-07-26,35,95495,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod024,Cus007,Mark004,2019-08-02,71,192796,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod024,Cus007,Mark004,2019-08-09,68,183787,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod024,Cus007,Mark004,2019-08-16,50,134236,"INR"
+Cus017,"Epic Stores","Brick & Mortar",Prod024,Cus017,Mark007,2019-08-16,25,24667,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod024,Cus007,Mark004,2019-08-23,54,146852,"INR"
+Cus017,"Epic Stores","Brick & Mortar",Prod024,Cus017,Mark007,2019-10-08,80,80000,"INR"
+Cus017,"Epic Stores","Brick & Mortar",Prod024,Cus017,Mark007,2019-10-17,40,40000,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod024,Cus007,Mark004,2019-10-28,153,412620,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod024,Cus007,Mark004,2019-11-22,156,420731,"INR"
+Cus017,"Epic Stores","Brick & Mortar",Prod024,Cus017,Mark007,2019-11-28,80,80000,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod024,Cus007,Mark004,2019-11-29,16,43245,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod024,Cus007,Mark004,2019-12-13,101,272079,"INR"
+Cus017,"Epic Stores","Brick & Mortar",Prod024,Cus017,Mark007,2020-01-22,5,4667,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod024,Cus007,Mark004,2020-02-14,6,10097,"INR"
+Cus017,"Epic Stores","Brick & Mortar",Prod024,Cus017,Mark007,2020-02-28,104,104000,"INR"
+Cus017,"Epic Stores","Brick & Mortar",Prod024,Cus017,Mark007,2020-03-20,47,47000,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod024,Cus007,Mark004,2020-04-14,73,130083,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod024,Cus007,Mark004,2020-04-20,42,75435,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod024,Cus007,Mark004,2020-05-25,1,593,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod024,Cus007,Mark004,2020-06-08,1,2375,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod024,Cus007,Mark004,2020-06-15,35,62963,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod025,Cus016,Mark002,2017-10-06,2,4569,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod025,Cus016,Mark002,2017-10-13,1,1523,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod025,Cus007,Mark004,2017-10-27,47,166972,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod025,Cus016,Mark002,2017-10-27,1,1523,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod025,Cus007,Mark004,2017-11-06,2,8324,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod025,Cus007,Mark004,2017-11-27,1,1190,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod025,Cus016,Mark002,2017-12-08,1,759,"INR"
+Cus017,"Epic Stores","Brick & Mortar",Prod025,Cus017,Mark007,2018-03-27,17,25000,"INR"
+Cus017,"Epic Stores","Brick & Mortar",Prod025,Cus017,Mark007,2018-04-24,17,25000,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod025,Cus007,Mark004,2018-05-16,1,1190,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod025,Cus007,Mark004,2018-05-22,1,1190,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod025,Cus007,Mark004,2018-05-28,7,23792,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod025,Cus007,Mark004,2018-06-04,4,14278,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod025,Cus007,Mark004,2018-06-12,3,10704,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod025,Cus007,Mark004,2018-06-13,8,29741,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod025,Cus007,Mark004,2018-06-14,32,112991,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod025,Cus007,Mark004,2018-07-27,1,2380,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod025,Cus007,Mark004,2018-07-30,2,5949,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod025,Cus007,Mark004,2018-08-03,1,4759,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod025,Cus007,Mark004,2018-08-21,15,53528,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod025,Cus007,Mark004,2018-08-23,6,21412,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod025,Cus007,Mark004,2018-09-05,3,9514,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod025,Cus007,Mark004,2018-09-07,2,8329,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod025,Cus016,Mark002,2018-09-26,6,14569,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod025,Cus007,Mark004,2018-10-02,5,17838,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod025,Cus007,Mark004,2018-10-03,1,3569,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod025,Cus007,Mark004,2018-10-05,5,16653,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod025,Cus007,Mark004,2018-10-06,5,19028,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod025,Cus007,Mark004,2018-10-08,4,15463,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod025,Cus007,Mark004,2018-10-09,2,7134,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod025,Cus007,Mark004,2018-10-17,43,154611,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod025,Cus016,Mark002,2018-10-31,1,1532,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod025,Cus007,Mark004,2018-11-05,18,65407,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod025,Cus007,Mark004,2018-11-06,3,10704,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod025,Cus007,Mark004,2018-11-14,2,5949,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod025,Cus007,Mark004,2018-12-07,3,9519,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod025,Cus007,Mark004,2018-12-14,16,55903,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod025,Cus016,Mark002,2018-12-14,1,2301,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod025,Cus007,Mark004,2018-12-21,6,21412,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod025,Cus016,Mark002,2018-12-21,1,769,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod025,Cus016,Mark002,2019-01-08,15,34500,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod025,Cus007,Mark004,2019-01-11,5,16648,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod025,Cus016,Mark002,2019-02-15,1,2306,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod025,Cus016,Mark002,2019-02-22,1,1537,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod025,Cus007,Mark004,2019-03-01,1,2380,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod025,Cus007,Mark004,2019-03-08,2,8324,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod025,Cus007,Mark004,2019-03-15,5,17843,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod025,Cus016,Mark002,2019-03-15,1,769,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod025,Cus007,Mark004,2019-03-29,1,1190,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod025,Cus007,Mark004,2019-04-05,2,5949,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod025,Cus007,Mark004,2019-04-12,3,11894,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod025,Cus007,Mark004,2019-04-23,1,1190,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod025,Cus007,Mark004,2019-04-29,2,5949,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod025,Cus007,Mark004,2019-05-06,1,2380,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod025,Cus007,Mark004,2019-05-17,1,4759,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod025,Cus007,Mark004,2019-05-24,2,5949,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod025,Cus007,Mark004,2019-06-03,1,2380,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod025,Cus007,Mark004,2019-06-07,1,2380,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod025,Cus016,Mark002,2019-06-14,1,1537,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod025,Cus007,Mark004,2019-06-17,20,70171,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod025,Cus016,Mark002,2019-06-24,3,7671,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod025,Cus007,Mark004,2019-06-28,8,27356,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod025,Cus007,Mark004,2019-07-01,23,80875,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod025,Cus016,Mark002,2019-07-01,1,769,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod025,Cus007,Mark004,2019-07-05,5,19028,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod025,Cus007,Mark004,2019-07-12,9,32111,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod025,Cus016,Mark002,2019-07-12,1,2301,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod025,Cus007,Mark004,2019-07-19,3,10704,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod025,Cus007,Mark004,2019-09-06,7,24977,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod025,Cus007,Mark004,2019-09-13,1,2380,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod025,Cus007,Mark004,2019-09-27,7,24977,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod025,Cus016,Mark002,2019-09-27,1,769,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod025,Cus016,Mark002,2019-10-04,3,6903,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod025,Cus007,Mark004,2019-10-07,22,77310,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod025,Cus007,Mark004,2019-10-21,15,52333,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod025,Cus007,Mark004,2019-10-28,14,51144,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod025,Cus007,Mark004,2019-11-22,1,1190,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod025,Cus007,Mark004,2019-11-29,1,1190,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod025,Cus007,Mark004,2019-12-06,1,2380,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod025,Cus007,Mark004,2019-12-13,1,2380,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod025,Cus007,Mark004,2020-01-10,1,2380,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod025,Cus007,Mark004,2020-01-17,1,3569,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod025,Cus007,Mark004,2020-02-07,1,782,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod025,Cus007,Mark004,2020-02-21,10,23514,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod025,Cus007,Mark004,2020-03-06,24,57218,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod025,Cus016,Mark002,2020-03-06,2,3833,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod025,Cus016,Mark002,2020-03-12,18,42171,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod025,Cus016,Mark002,2020-03-13,1,1537,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod025,Cus016,Mark002,2020-03-24,9,19935,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod025,Cus007,Mark004,2020-04-03,9,21944,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod025,Cus016,Mark002,2020-04-07,5,10736,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod025,Cus016,Mark002,2020-04-16,2,4602,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod025,Cus007,Mark004,2020-04-17,23,53296,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod025,Cus016,Mark002,2020-04-22,10,22236,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod025,Cus016,Mark002,2020-05-08,1,1532,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod025,Cus016,Mark002,2020-05-14,1,1532,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod025,Cus016,Mark002,2020-05-30,17,39102,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod025,Cus016,Mark002,2020-06-05,25,57505,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod025,Cus007,Mark004,2020-06-15,22,52514,"INR"
+Cus016,"Logic Stores","Brick & Mortar",Prod025,Cus016,Mark002,2020-06-16,8,17634,"INR"
+Cus030,Synthetic,E-Commerce,Prod026,Cus030,Mark007,2017-10-05,86,47528,"INR"
+Cus030,Synthetic,E-Commerce,Prod026,Cus030,Mark007,2017-10-06,14,7921,"INR"
+Cus030,Synthetic,E-Commerce,Prod026,Cus030,Mark007,2017-10-11,43,23764,"INR"
+Cus030,Synthetic,E-Commerce,Prod026,Cus030,Mark007,2017-10-16,57,31685,"INR"
+Cus030,Synthetic,E-Commerce,Prod026,Cus030,Mark007,2017-10-19,43,23764,"INR"
+Cus030,Synthetic,E-Commerce,Prod026,Cus030,Mark007,2017-10-20,14,7921,"INR"
+Cus030,Synthetic,E-Commerce,Prod026,Cus030,Mark007,2017-10-25,72,39606,"INR"
+Cus030,Synthetic,E-Commerce,Prod026,Cus030,Mark007,2017-10-26,86,47537,"INR"
+Cus030,Synthetic,E-Commerce,Prod026,Cus030,Mark007,2017-10-27,14,7921,"INR"
+Cus030,Synthetic,E-Commerce,Prod026,Cus030,Mark007,2017-11-02,29,15843,"INR"
+Cus030,Synthetic,E-Commerce,Prod026,Cus030,Mark007,2017-11-03,86,47528,"INR"
+Cus030,Synthetic,E-Commerce,Prod026,Cus030,Mark007,2017-11-06,14,7921,"INR"
+Cus030,Synthetic,E-Commerce,Prod026,Cus030,Mark007,2017-12-20,14,7921,"INR"
+Cus030,Synthetic,E-Commerce,Prod026,Cus030,Mark007,2017-12-21,43,23769,"INR"
+Cus030,Synthetic,E-Commerce,Prod026,Cus030,Mark007,2017-12-28,43,23769,"INR"
+Cus030,Synthetic,E-Commerce,Prod026,Cus030,Mark007,2018-01-05,14,7921,"INR"
+Cus030,Synthetic,E-Commerce,Prod026,Cus030,Mark007,2018-01-16,14,7921,"INR"
+Cus030,Synthetic,E-Commerce,Prod026,Cus030,Mark007,2018-01-18,43,23769,"INR"
+Cus030,Synthetic,E-Commerce,Prod026,Cus030,Mark007,2018-01-25,29,15843,"INR"
+Cus030,Synthetic,E-Commerce,Prod026,Cus030,Mark007,2018-02-01,29,15843,"INR"
+Cus030,Synthetic,E-Commerce,Prod026,Cus030,Mark007,2018-02-08,14,7921,"INR"
+Cus030,Synthetic,E-Commerce,Prod026,Cus030,Mark007,2018-02-15,14,7921,"INR"
+Cus030,Synthetic,E-Commerce,Prod026,Cus030,Mark007,2018-02-22,43,23769,"INR"
+Cus030,Synthetic,E-Commerce,Prod026,Cus030,Mark007,2018-03-01,29,15847,"INR"
+Cus030,Synthetic,E-Commerce,Prod026,Cus030,Mark007,2018-03-08,14,7921,"INR"
+Cus030,Synthetic,E-Commerce,Prod026,Cus030,Mark007,2018-03-15,29,15843,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod027,Cus007,Mark004,2017-10-11,1,537,"INR"
+Cus005,"Premium Stores","Brick & Mortar",Prod027,Cus005,Mark004,2017-10-16,1,343,"INR"
+Cus006,"Electricalsara Stores","Brick & Mortar",Prod027,Cus006,Mark004,2017-10-23,7,9153,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod027,Cus007,Mark004,2017-11-03,120,47204,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod027,Cus007,Mark004,2017-11-14,1,537,"INR"
+Cus006,"Electricalsara Stores","Brick & Mortar",Prod027,Cus006,Mark004,2017-11-24,7,9153,"INR"
+Cus006,"Electricalsara Stores","Brick & Mortar",Prod027,Cus006,Mark004,2017-12-11,14,18764,"INR"
+Cus006,"Electricalsara Stores","Brick & Mortar",Prod027,Cus006,Mark004,2017-12-18,1,458,"INR"
+Cus020,Nixon,E-Commerce,Prod027,Cus020,Mark004,2017-12-19,1,662,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod028,Cus007,Mark004,2018-04-20,98,47477,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod029,Cus007,Mark004,2018-04-23,8,2894,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod030,Cus007,Mark004,2017-10-19,2,2884,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod030,Cus007,Mark004,2017-10-20,1,2019,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod030,Cus007,Mark004,2017-10-27,22,37468,"INR"
+Cus006,"Electricalsara Stores","Brick & Mortar",Prod030,Cus006,Mark004,2017-11-01,1,245,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod030,Cus007,Mark004,2017-11-03,500,239583,"INR"
+Cus006,"Electricalsara Stores","Brick & Mortar",Prod030,Cus006,Mark004,2017-11-06,1,245,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod030,Cus007,Mark004,2017-11-06,1,2306,"INR"
+Cus006,"Electricalsara Stores","Brick & Mortar",Prod030,Cus006,Mark004,2017-11-07,1,245,"INR"
+Cus006,"Electricalsara Stores","Brick & Mortar",Prod030,Cus006,Mark004,2017-11-08,1,245,"INR"
+Cus006,"Electricalsara Stores","Brick & Mortar",Prod030,Cus006,Mark004,2017-11-13,1,245,"INR"
+Cus006,"Electricalsara Stores","Brick & Mortar",Prod030,Cus006,Mark004,2017-11-14,1,491,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod030,Cus007,Mark004,2017-11-16,3,4611,"INR"
+Cus006,"Electricalsara Stores","Brick & Mortar",Prod030,Cus006,Mark004,2017-11-17,1,245,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod030,Cus007,Mark004,2017-11-17,4,6917,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod030,Cus007,Mark004,2017-11-20,3,1366,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod030,Cus007,Mark004,2017-11-30,167,81019,"INR"
+Cus006,"Electricalsara Stores","Brick & Mortar",Prod030,Cus006,Mark004,2017-12-21,1,241,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod030,Cus007,Mark004,2018-02-09,1,1153,"INR"
+Cus005,"Premium Stores","Brick & Mortar",Prod030,Cus005,Mark004,2018-02-19,1,185,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod030,Cus007,Mark004,2018-02-21,80,38889,"INR"
+Cus005,"Premium Stores","Brick & Mortar",Prod030,Cus005,Mark004,2019-01-03,1,185,"INR"
+Cus006,"Electricalsara Stores","Brick & Mortar",Prod030,Cus006,Mark004,2019-02-06,112,106856,"INR"
+Cus006,"Electricalsara Stores","Brick & Mortar",Prod030,Cus006,Mark004,2019-03-15,50,96069,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod030,Cus007,Mark004,2019-05-17,37,16958,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod030,Cus007,Mark004,2019-06-03,8,14120,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod030,Cus007,Mark004,2019-06-24,13,21903,"INR"
+Cus006,"Electricalsara Stores","Brick & Mortar",Prod030,Cus006,Mark004,2019-07-02,133,255287,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod030,Cus007,Mark004,2019-07-19,17,29106,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod030,Cus007,Mark004,2019-07-26,18,30838,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod030,Cus007,Mark004,2019-12-05,2,639,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod030,Cus007,Mark004,2020-02-07,12,5046,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod031,Cus007,Mark004,2018-10-05,10,3944,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod031,Cus007,Mark004,2019-11-08,54,24903,"INR"
+Cus024,Power,E-Commerce,Prod032,Cus024,Mark002,2018-01-15,1,477,"INR"
+Cus024,Power,E-Commerce,Prod032,Cus024,Mark002,2018-03-05,1,477,"INR"
+Cus024,Power,E-Commerce,Prod032,Cus024,Mark002,2018-03-13,1,477,"INR"
+Cus024,Power,E-Commerce,Prod032,Cus024,Mark002,2018-04-24,5,6685,"INR"
+Cus024,Power,E-Commerce,Prod032,Cus024,Mark002,2018-05-08,5,6685,"INR"
+Cus011,"Flawless Stores","Brick & Mortar",Prod033,Cus011,Mark003,2017-10-06,2,6361,"INR"
+Cus011,"Flawless Stores","Brick & Mortar",Prod033,Cus011,Mark003,2017-10-13,2,5296,"INR"
+Cus011,"Flawless Stores","Brick & Mortar",Prod033,Cus011,Mark003,2017-10-20,2,5301,"INR"
+Cus010,"Atlas Stores","Brick & Mortar",Prod033,Cus010,Mark003,2017-10-24,4,9588,"INR"
+Cus010,"Atlas Stores","Brick & Mortar",Prod033,Cus010,Mark003,2017-10-26,16,38356,"INR"
+Cus011,"Flawless Stores","Brick & Mortar",Prod033,Cus011,Mark003,2017-10-27,2,6361,"INR"
+Cus011,"Flawless Stores","Brick & Mortar",Prod033,Cus011,Mark003,2017-11-07,2,7417,"INR"
+Cus003,"Excel Stores","Brick & Mortar",Prod033,Cus003,Mark003,2017-11-09,1,1412,"INR"
+Cus012,"Integration Stores","Brick & Mortar",Prod033,Cus012,Mark003,2017-11-13,1,2569,"INR"
+Cus011,"Flawless Stores","Brick & Mortar",Prod033,Cus011,Mark003,2017-11-13,3,8477,"INR"
+Cus003,"Excel Stores","Brick & Mortar",Prod033,Cus003,Mark003,2017-11-13,2,4454,"INR"
+Cus011,"Flawless Stores","Brick & Mortar",Prod033,Cus011,Mark003,2017-11-20,1,3181,"INR"
+Cus011,"Flawless Stores","Brick & Mortar",Prod033,Cus011,Mark003,2017-11-27,4,13769,"INR"
+Cus011,"Flawless Stores","Brick & Mortar",Prod033,Cus011,Mark003,2017-12-04,3,9537,"INR"
+Cus011,"Flawless Stores","Brick & Mortar",Prod033,Cus011,Mark003,2017-12-11,5,15894,"INR"
+Cus011,"Flawless Stores","Brick & Mortar",Prod033,Cus011,Mark003,2017-12-18,3,10597,"INR"
+Cus011,"Flawless Stores","Brick & Mortar",Prod033,Cus011,Mark003,2017-12-26,4,11657,"INR"
+Cus011,"Flawless Stores","Brick & Mortar",Prod033,Cus011,Mark003,2017-12-29,1,1060,"INR"
+Cus011,"Flawless Stores","Brick & Mortar",Prod033,Cus011,Mark003,2018-01-05,4,13773,"INR"
+Cus011,"Flawless Stores","Brick & Mortar",Prod033,Cus011,Mark003,2018-01-09,2,5296,"INR"
+Cus011,"Flawless Stores","Brick & Mortar",Prod033,Cus011,Mark003,2018-02-16,2,6356,"INR"
+Cus011,"Flawless Stores","Brick & Mortar",Prod033,Cus011,Mark003,2018-02-26,2,6356,"INR"
+Cus011,"Flawless Stores","Brick & Mortar",Prod033,Cus011,Mark003,2018-03-02,2,7417,"INR"
+Cus011,"Flawless Stores","Brick & Mortar",Prod033,Cus011,Mark003,2018-03-09,1,3227,"INR"
+Cus011,"Flawless Stores","Brick & Mortar",Prod033,Cus011,Mark003,2018-03-16,1,4301,"INR"
+Cus011,"Flawless Stores","Brick & Mortar",Prod033,Cus011,Mark003,2018-03-23,2,6454,"INR"
+Cus011,"Flawless Stores","Brick & Mortar",Prod033,Cus011,Mark003,2018-03-30,1,4296,"INR"
+Cus011,"Flawless Stores","Brick & Mortar",Prod033,Cus011,Mark003,2018-04-03,1,2148,"INR"
+Cus011,"Flawless Stores","Brick & Mortar",Prod033,Cus011,Mark003,2018-04-09,1,2148,"INR"
+Cus011,"Flawless Stores","Brick & Mortar",Prod033,Cus011,Mark003,2018-04-13,2,5375,"INR"
+Cus011,"Flawless Stores","Brick & Mortar",Prod033,Cus011,Mark003,2018-04-16,1,1074,"INR"
+Cus011,"Flawless Stores","Brick & Mortar",Prod033,Cus011,Mark003,2018-04-20,1,1074,"INR"
+Cus011,"Flawless Stores","Brick & Mortar",Prod033,Cus011,Mark003,2018-04-27,1,3227,"INR"
+Cus011,"Flawless Stores","Brick & Mortar",Prod033,Cus011,Mark003,2018-04-30,1,1074,"INR"
+Cus011,"Flawless Stores","Brick & Mortar",Prod033,Cus011,Mark003,2018-05-07,2,7528,"INR"
+Cus011,"Flawless Stores","Brick & Mortar",Prod033,Cus011,Mark003,2018-05-16,2,6449,"INR"
+Cus011,"Flawless Stores","Brick & Mortar",Prod033,Cus011,Mark003,2018-05-18,1,3222,"INR"
+Cus011,"Flawless Stores","Brick & Mortar",Prod033,Cus011,Mark003,2018-05-28,1,3222,"INR"
+Cus011,"Flawless Stores","Brick & Mortar",Prod033,Cus011,Mark003,2018-06-01,1,4301,"INR"
+Cus011,"Flawless Stores","Brick & Mortar",Prod033,Cus011,Mark003,2018-06-04,2,6449,"INR"
+Cus011,"Flawless Stores","Brick & Mortar",Prod033,Cus011,Mark003,2018-06-11,2,5375,"INR"
+Cus011,"Flawless Stores","Brick & Mortar",Prod033,Cus011,Mark003,2018-06-18,1,3227,"INR"
+Cus011,"Flawless Stores","Brick & Mortar",Prod033,Cus011,Mark003,2018-06-19,1,4301,"INR"
+Cus011,"Flawless Stores","Brick & Mortar",Prod033,Cus011,Mark003,2018-06-25,1,3227,"INR"
+Cus011,"Flawless Stores","Brick & Mortar",Prod033,Cus011,Mark003,2018-07-02,1,1074,"INR"
+Cus011,"Flawless Stores","Brick & Mortar",Prod033,Cus011,Mark003,2018-07-09,3,8597,"INR"
+Cus011,"Flawless Stores","Brick & Mortar",Prod033,Cus011,Mark003,2018-07-16,1,1074,"INR"
+Cus011,"Flawless Stores","Brick & Mortar",Prod033,Cus011,Mark003,2018-07-17,2,5375,"INR"
+Cus011,"Flawless Stores","Brick & Mortar",Prod033,Cus011,Mark003,2018-08-07,1,1074,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod033,Cus007,Mark004,2018-08-15,100,118056,"INR"
+Cus011,"Flawless Stores","Brick & Mortar",Prod033,Cus011,Mark003,2018-09-17,9,29028,"INR"
+Cus011,"Flawless Stores","Brick & Mortar",Prod033,Cus011,Mark003,2018-11-02,12,39782,"INR"
+Cus011,"Flawless Stores","Brick & Mortar",Prod033,Cus011,Mark003,2018-11-05,1,3227,"INR"
+Cus002,"Nomad Stores","Brick & Mortar",Prod034,Cus002,Mark002,2018-04-24,20,20106,"INR"
+Cus023,Sound,E-Commerce,Prod034,Cus023,Mark002,2018-06-11,1,324,"INR"
+Cus023,Sound,E-Commerce,Prod034,Cus023,Mark002,2018-09-28,1,324,"INR"
+Cus005,"Premium Stores","Brick & Mortar",Prod035,Cus005,Mark004,2017-11-22,1,361,"INR"
+Cus031,Zone,E-Commerce,Prod035,Cus031,Mark005,2017-11-24,1,1931,"INR"
+Cus005,"Premium Stores","Brick & Mortar",Prod035,Cus005,Mark004,2017-11-24,1,361,"INR"
+Cus005,"Premium Stores","Brick & Mortar",Prod035,Cus005,Mark004,2017-11-27,1,361,"INR"
+Cus005,"Premium Stores","Brick & Mortar",Prod035,Cus005,Mark004,2017-11-28,1,361,"INR"
+Cus031,Zone,E-Commerce,Prod035,Cus031,Mark005,2017-12-01,1,1287,"INR"
+Cus006,"Electricalsara Stores","Brick & Mortar",Prod035,Cus006,Mark004,2017-12-01,1,412,"INR"
+Cus031,Zone,E-Commerce,Prod035,Cus031,Mark005,2017-12-11,1,644,"INR"
+Cus007,"Info Stores","Brick & Mortar",Prod035,Cus007,Mark004,2017-12-11,116,42009,"INR"
+Cus002,"Nomad Stores","Brick & Mortar",Prod036,Cus002,Mark002,2018-04-18,20,20106,"INR"
